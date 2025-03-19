@@ -1,0 +1,224 @@
+"id","diagnosis","is_final","assessment_id","diagnosis_state","date_added"
+DI9444,Gastritis,false,AS2736,T,2024-01-15 10:21:11.417 -0600
+DI9588,nil,false,AS2649,T,2024-03-19 07:54:53.381 -0500
+DI8522,helminthosis,false,AS6403,T,2024-03-19 08:00:50.999 -0500
+DI1893,discharge,false,AS7833,F,2024-01-16 03:38:14.260 -0600
+DI1412,fever,false,AS6485,K,2024-01-20 09:30:37.669 -0600
+DI0876,Mange,false,AS8877,K,2024-01-23 06:11:44.563 -0600
+DI7032,Routine checkup,false,AS0401,F,2024-01-23 06:46:54.125 -0600
+DI3618,ehrlichiosis,false,AS2152,D,2024-01-24 01:44:56.215 -0600
+DI2059,"gastritis,ehrlichiosis,babesiosis.",false,AS8586,K,2024-01-24 02:58:12.721 -0600
+DI2628,internal hemorrhage,false,AS9182,K,2024-01-25 03:55:41.543 -0600
+DI4371,Acetaminophen toxicosis,false,AS9182,D,2024-01-25 03:55:41.545 -0600
+DI6189,follow up,false,AS4183,F,2024-01-25 06:32:20.804 -0600
+DI6109,Atopic dermatitis ,false,AS4528,D,2024-01-25 11:11:13.872 -0600
+DI7910,nil,false,AS6150,F,2024-01-25 11:15:22.241 -0600
+DI9884,helminthosis,false,AS0690,K,2024-01-27 07:19:01.551 -0600
+DI1333,ehrlichiosis/babesiosis,false,AS0690,D,2024-01-27 07:19:01.554 -0600
+DI5922,malnutrition,false,AS9852,K,2024-01-27 08:24:21.363 -0600
+DI8539,traumatic eye injury,false,AS9036,K,2024-01-27 08:32:32.995 -0600
+DI8253,corneal opacity,false,AS9036,D,2024-01-27 08:32:32.998 -0600
+DI8557,acute fever,false,AS3903,D,2024-01-23 07:31:51.586 -0600
+DI0756,inflammatory bowel disease,false,AS1654,T,2024-01-30 09:43:25.065 -0600
+DI7182,parvo virus,false,AS8447,F,2024-01-30 10:22:43.034 -0600
+DI9923,Gastritis,false,AS8894,F,2024-02-01 04:43:43.830 -0600
+DI8343,Ehrlichiosis,false,AS8894,F,2024-02-01 04:43:43.828 -0600
+DI6810,Babesiosis,false,AS8894,F,2024-02-01 04:43:43.825 -0600
+DI8769,liver dysfunction,false,AS8894,D,2024-02-01 04:44:15.786 -0600
+DI4940,nil,false,AS1921,F,2024-02-01 06:03:49.798 -0600
+DI7184,gastritis,false,AS3577,D,2024-02-07 09:52:20.423 -0600
+DI6549,vaccination,false,AS3043,F,2024-03-20 03:19:24.471 -0500
+DI4988,traumatic injury,false,AS0533,F,2024-02-12 07:13:34.513 -0600
+DI0386,oral bacterial/viral infection,false,AS4298,K,2024-02-12 11:34:05.307 -0600
+DI9066,demodectic mange,false,AS4298,K,2024-02-12 11:34:05.309 -0600
+DI4068,cutaneous myiasis,false,AS5629,F,2024-02-13 07:17:47.873 -0600
+DI3421,nil,false,AS4060,F,2024-02-13 16:37:54.459 -0600
+DI3362,"EHRLICHIOSIS,BABESIOSIS",false,AS0670,K,2024-02-14 05:47:28.339 -0600
+DI6466,auricular irritation,false,AS8037,K,2024-02-14 06:03:04.111 -0600
+DI1598,Patient tested positive for the Parvo virus.,false,AS8005,F,2024-02-16 04:31:25.680 -0600
+DI7924,nil,false,AS3500,F,2024-02-16 05:17:04.422 -0600
+DI0121,nil,false,AS2548,F,2024-02-16 05:21:16.527 -0600
+DI3819,vaccination,false,AS6357,F,2024-02-17 05:36:48.358 -0600
+DI7889,deworming,false,AS6357,F,2024-02-17 05:36:48.361 -0600
+DI6907,vaccination,false,AS6601,F,2024-03-20 03:36:44.244 -0500
+DI0471,"",false,AS3208,F,2024-02-21 02:27:58.196 -0600
+DI8423,vaccination,false,AS8270,F,2024-03-20 05:32:50.535 -0500
+DI9134,vaccination,false,AS0774,F,2024-03-20 05:34:51.060 -0500
+DI8554,orchitis,false,AS6445,K,2024-02-28 07:08:31.611 -0600
+DI1242,helminthosis,false,AS5094,F,2024-03-06 04:36:04.122 -0600
+DI6759,vaccination ,false,AS2060,F,2024-03-05 03:41:27.164 -0600
+DI5680,vaccination ,false,AS7920,F,2024-03-06 04:44:09.800 -0600
+DI1005,vaccination ,false,AS1485,F,2024-03-06 04:54:25.808 -0600
+DI3451,Gastritis,false,AS2380,T,2024-02-21 06:26:34.475 -0600
+DI9940,helminthosis,false,AS7807,F,2024-03-06 07:22:49.165 -0600
+DI5583,nil,false,AS0575,F,2024-03-06 07:24:40.857 -0600
+DI8314,nil,false,AS9325,F,2024-03-06 07:26:32.268 -0600
+DI2028,nil,false,AS2496,F,2024-03-06 07:32:37.076 -0600
+DI0686,nil,false,AS8690,F,2024-02-14 07:22:31.455 -0600
+DI3436,nil,false,AS8342,F,2024-03-06 07:42:13.609 -0600
+DI7011,nil,false,AS8528,F,2024-03-06 07:47:03.281 -0600
+DI9219,nil,false,AS3527,F,2024-03-07 02:06:33.330 -0600
+DI8836,nil,false,AS0261,T,2024-03-07 02:19:44.154 -0600
+DI1718,helminthosis,false,AS5618,T,2024-03-07 02:30:41.986 -0600
+DI2424,insect bite allergy,false,AS9900,F,2024-03-11 03:18:17.184 -0500
+DI0060,Tick fever,false,AS7835,T,2024-03-11 05:53:09.953 -0500
+DI8369,helminthosis,false,AS3009,F,2024-03-12 05:25:51.299 -0500
+DI5568,motion sickness suspected,false,AS3949,D,2024-03-12 05:37:21.764 -0500
+DI7180,helminthosis,false,AS3949,K,2024-03-12 05:37:21.766 -0500
+DI8513,helminthosis,false,AS5353,K,2024-03-12 05:43:22.492 -0500
+DI4410,Tick fever,false,AS6573,K,2024-03-12 05:48:42.424 -0500
+DI2830,Babesiosis and Ehrlichiosis,false,AS5976,F,2024-03-12 07:50:26.090 -0500
+DI5542,vaccination,false,AS0454,F,2024-03-20 06:45:23.112 -0500
+DI1959,seborrheic dematitis,false,AS2940,K,2024-03-12 07:57:24.884 -0500
+DI9921,helminthosis,false,AS1416,F,2024-03-20 06:56:55.119 -0500
+DI3314,dhlpp vaccination and deworming,false,AS2382,F,2024-03-14 07:08:23.101 -0500
+DI8075, Fit for vaccination,false,AS9538,T,2024-03-22 10:40:39.603 -0500
+DI6977, Fit for vaccination,false,AS7287,F,2024-03-24 09:02:53.199 -0500
+DI4788,nil,false,AS2401,F,2024-03-24 09:11:18.901 -0500
+DI8941,canine ehrlichiosis,false,AS9993,T,2024-03-24 09:20:30.712 -0500
+DI7018,vaccination,false,AS3519,F,2024-03-25 03:44:32.877 -0500
+DI9105,vaccination,false,AS2870,F,2024-03-25 05:01:42.859 -0500
+DI9439,helminthosis,false,AS1354,F,2024-03-25 05:06:58.038 -0500
+DI6471,nil,false,AS4237,F,2024-03-25 06:11:21.940 -0500
+DI4552,vaccination,false,AS1496,F,2024-03-26 04:20:17.753 -0500
+DI9480,vaccination,false,AS9952,T,2024-03-27 03:13:33.876 -0500
+DI3111,vaccination,false,AS2637,F,2024-03-27 05:23:52.214 -0500
+DI2157,helminthosis,false,AS4462,K,2024-02-05 10:36:06.474 -0600
+DI7847,cpv,false,AS4462,D,2024-02-05 10:36:06.471 -0600
+DI0785, Fit for vaccination,false,AS0459,F,2024-04-11 10:26:27.674 -0500
+DI5596,pet was pregnant,false,AS8409,K,2024-04-11 10:37:57.322 -0500
+DI2273,Follow-up,false,AS8221,F,2024-04-12 09:00:03.150 -0500
+DI6981,vaccination,false,AS3237,F,2024-04-15 05:24:22.372 -0500
+DI7134,vaccination,false,AS9417,F,2024-04-15 05:54:33.896 -0500
+DI3142,nil,false,AS0836,T,2024-04-15 05:59:26.627 -0500
+DI7848,cutaneous myiasis,false,AS5122,D,2024-04-11 06:01:43.501 -0500
+DI6119,post surgical septicemia,false,AS5122,K,2024-04-11 06:01:43.499 -0500
+DI3610,vaccination,false,AS4823,T,2024-04-17 04:56:55.557 -0500
+DI1995,vaccination,false,AS6477,T,2024-04-16 06:52:17.173 -0500
+DI7542,nil,false,AS7625,F,2024-04-17 05:49:26.026 -0500
+DI6190,vaccination,false,AS4580,F,2024-04-18 03:05:43.649 -0500
+DI5477,vaccination,false,AS3642,F,2024-04-22 08:31:28.392 -0500
+DI9978,vaccination,false,AS8691,F,2024-04-22 06:09:44.154 -0500
+DI4012,suspected bone choke,false,AS4301,K,2024-04-22 08:39:32.261 -0500
+DI0830,esophagitis,false,AS4301,D,2024-04-22 08:39:32.264 -0500
+DI6921,vaccination,false,AS2225,T,2024-04-24 06:04:50.500 -0500
+DI8724,nil,false,AS8346,F,2024-04-24 11:43:35.866 -0500
+DI9077,Fever of Idiopathic origin,false,AS2013,F,2024-04-26 07:26:52.396 -0500
+DI8228,suspected bacterial infection,false,AS0898,D,2024-04-26 07:32:03.928 -0500
+DI0967,suspected ehrlichiosis,false,AS0898,K,2024-04-26 07:32:03.934 -0500
+DI8537, Fit for vaccination,false,AS1483,F,2024-04-29 11:19:56.392 -0500
+DI5287,nil,false,AS0362,F,2024-05-07 10:17:01.087 -0500
+DI0440,nil,false,AS8140,T,2024-05-07 10:22:08.915 -0500
+DI7868,Allergic dermatitis,false,AS9445,F,2024-04-30 09:44:28.102 -0500
+DI3830,nil,false,AS0908,F,2024-05-07 10:34:35.323 -0500
+DI0974,ALLERGIC RHINITIS,false,AS3129,F,2024-05-21 06:14:10.222 -0500
+DI3785,nil,false,AS5212,F,2024-05-25 07:50:13.241 -0500
+DI1541,"Mange ,Allergic dermatitis, Gastritis/Gastroenteritis",false,AS2012,K,2024-05-25 07:59:20.231 -0500
+DI4092,helminthosis,false,AS0322,F,2024-05-27 06:57:49.223 -0500
+DI3157,Tick bite dermatitis,false,AS5722,F,2024-05-28 04:51:10.544 -0500
+DI7930,Gastritis,false,AS8549,K,2024-06-07 08:54:07.640 -0500
+DI1047,GOOD,false,AS3964,F,2024-06-18 08:19:24.867 -0500
+DI2298,systemic trauma,false,AS5584,K,2024-06-18 08:35:18.428 -0500
+DI2078,Fit,false,AS3493,K,2024-06-18 10:29:27.947 -0500
+DI7481,vaccination ,false,AS8861,F,2024-06-20 07:25:28.190 -0500
+DI8005,nutritional imbalance,false,AS5093,K,2024-06-20 07:29:02.632 -0500
+DI9270,atresia ani suspected,false,AS5093,D,2024-06-20 07:29:02.634 -0500
+DI0734,Food poisoning,false,AS9352,K,2024-06-17 09:04:24.815 -0500
+DI5135,Healthy,false,AS3178,F,2024-07-17 05:34:08.264 -0500
+DI8019,Healthy,false,AS3655,F,2024-07-17 05:46:54.447 -0500
+DI7305,Gastritis,false,AS4998,K,2024-07-17 06:11:45.576 -0500
+DI1623,Parvovirus,false,AS4998,K,2024-07-17 06:11:45.587 -0500
+DI9396,"Canine Babesiosis, Systemic infection, GIT upset?",false,AS8623,D,2024-09-11 06:08:40.187 -0500
+DI6277,helminthosis,false,AS7808,K,2024-07-19 09:31:10.271 -0500
+DI2089,vaccination ,false,AS6008,F,2024-06-20 07:21:17.285 -0500
+DI5794,Helminthosis,false,AS0265,K,2024-08-28 08:19:32.701 -0500
+DI2598,Helminthosis,false,AS6185,T,2024-08-28 08:23:53.603 -0500
+DI0837,Vaccination,false,AS2236,T,2024-08-28 09:01:05.325 -0500
+DI5974,diadnsis 1,false,AS7712,D,2024-08-07 05:09:07.137 -0500
+DI2592,diagnosis 2,false,AS7712,D,2024-08-07 05:09:07.140 -0500
+DI6495,Gastritis,false,AS9505,K,2024-08-12 03:18:42.149 -0500
+DI1064,Food poisoning,false,AS9505,D,2024-08-12 03:18:42.152 -0500
+DI1127,Dehydration,false,AS9505,D,2024-08-12 03:18:42.154 -0500
+DI8315,diarrhoea,false,AS0527,T,2024-08-14 07:17:14.109 -0500
+DI3628,Gastritis,false,AS0527,T,2024-08-14 07:19:13.800 -0500
+DI8726,"Helminthosis, Ascites",false,AS3829,K,2024-08-28 12:58:51.190 -0500
+DI5628,Vaccination,false,AS5092,K,2024-08-29 06:06:25.999 -0500
+DI7227,systemic infection,false,AS6472,K,2024-08-28 12:46:44.176 -0500
+DI0354,systemic infection,false,AS8357,K,2024-08-29 09:34:29.585 -0500
+DI9718,Vaccination,false,AS6077,T,2024-09-17 09:28:52.908 -0500
+DI4946,"Chronic Canine Babesiosis, Canine Ehrlichiosis,  Non regenerative anemia Liver injury",false,AS9482,T,2024-08-31 04:30:27.417 -0500
+DI7023,"Bacterial enteritis?, helminthosis?, Parvo viral enteritis?",false,AS3444,D,2024-08-15 13:57:43.106 -0500
+DI3720,UTI,false,AS2264,K,2024-08-16 09:23:45.820 -0500
+DI8399,premating examination,false,AS6533,F,2024-08-16 09:31:13.315 -0500
+DI2978,"demodecosis,yeast infection and bacterial infection ",false,AS5033,F,2024-08-16 10:41:14.934 -0500
+DI3945,"Vaccination, Deworming",false,AS3498,T,2024-08-31 06:29:47.289 -0500
+DI3324,Helminthosis,false,AS3287,T,2024-08-17 06:28:14.550 -0500
+DI2103,Helminthosis,false,AS4324,T,2024-08-29 09:16:02.289 -0500
+DI1909,Vaccination,false,AS7340,T,2024-08-19 12:26:00.344 -0500
+DI3621,"Traumatic proptosis,  conjuctivitis",false,AS1242,F,2024-08-20 02:53:45.435 -0500
+DI8317,poisioning? acute infection?,false,AS1614,F,2024-08-20 03:32:20.067 -0500
+DI0243,helminthosis?,false,AS7433,F,2024-08-20 03:57:06.588 -0500
+DI3450,Helminthosis,false,AS2313,T,2024-09-02 07:19:14.370 -0500
+DI8599,Upper respiratory tract infection,false,AS2218,K,2024-08-17 06:38:49.107 -0500
+DI3441,Skin rashes,false,AS8096,K,2024-09-12 06:28:42.834 -0500
+DI4175,follow up,false,AS3862,T,2024-09-12 07:00:36.193 -0500
+DI2224,helminthosis,false,AS9685,K,2024-08-21 07:27:57.841 -0500
+DI8784,esophageal obstruction? bone choke? esophageal ulcers?,false,AS1153,D,2024-08-22 03:57:12.260 -0500
+DI7688,follow up,false,AS0694,F,2024-08-20 06:14:20.292 -0500
+DI1941,vaccination ,false,AS2355,F,2024-08-22 05:25:55.984 -0500
+DI3528,Vaccination,false,AS8239,T,2024-08-22 07:42:23.571 -0500
+DI7792,leptospirosis? babesiosis? ehrlichiosis? Renal Disease?,false,AS7599,K,2024-08-21 12:40:31.907 -0500
+DI2412,DHLPP vaccination ,false,AS8857,F,2024-09-12 07:08:20.278 -0500
+DI3645,"gastrointestinal ulcer, gastritis, peritonitis?, ",false,AS8417,D,2024-08-24 04:15:39.865 -0500
+DI4907,"helminthosis, Vaccination",false,AS2088,T,2024-08-21 07:18:33.706 -0500
+DI7513,"Bacterial Dermatitis, Skin infection, Allergic dermatitis",false,AS5604,D,2024-09-12 11:39:13.198 -0500
+DI1278,follow-up,false,AS8213,K,2024-08-24 09:31:00.666 -0500
+DI4152,follow-up,false,AS8475,T,2024-08-25 08:46:35.081 -0500
+DI1395,Helminthosis ,false,AS0464,T,2024-08-15 10:03:00.042 -0500
+DI9401,Conjunctivitis?,false,AS5527,T,2024-08-26 11:57:59.430 -0500
+DI5959,chronic kidney disease,false,AS1927,F,2024-08-27 03:55:07.167 -0500
+DI8541,Vaccination,false,AS9103,T,2024-09-17 09:32:47.506 -0500
+DI7356,Helminthosis,false,AS2757,K,2024-09-16 06:17:56.030 -0500
+DI3226,Helminthosis,false,AS5815,D,2024-09-14 09:39:12.729 -0500
+DI0569,Gastritis,false,AS7358,T,2024-08-27 08:57:56.497 -0500
+DI5820,Dehydration,false,AS7358,D,2024-08-12 03:26:16.491 -0500
+DI7437,Helminthosis,false,AS0609,K,2024-09-02 09:53:40.870 -0500
+DI3460,helminthosis,false,AS1510,K,2024-09-04 04:49:18.959 -0500
+DI6475,Vaccination,false,AS7125,T,2024-09-04 07:08:54.811 -0500
+DI3235,Vaccination,false,AS7774,T,2024-09-04 07:06:16.649 -0500
+DI3297,follow-up,false,AS5062,T,2024-09-05 06:53:35.217 -0500
+DI7388,Organophosphate Poisoning,false,AS9698,T,2024-08-19 12:22:07.965 -0500
+DI3861,indigestion,false,AS4242,F,2024-08-28 04:57:11.525 -0500
+DI3914,vaccination ,false,AS8144,F,2024-08-27 05:31:19.488 -0500
+DI3184,follow-up,false,AS7867,T,2024-09-07 04:28:07.013 -0500
+DI7144,"Chronic Canine Babesiosis, Canine Ehrlichiosis   ",false,AS6722,T,2024-09-07 04:06:33.590 -0500
+DI8159,follow-up,false,AS9379,T,2024-09-07 04:45:47.789 -0500
+DI5769,Helminthosis,false,AS9889,K,2024-09-07 09:23:33.047 -0500
+DI8720,Helminthosis,false,AS9060,T,2024-09-07 09:33:25.287 -0500
+DI3774,Helminthosis,false,AS8798,T,2024-09-07 09:34:48.904 -0500
+DI4017,Vaccination,false,AS1572,T,2024-09-07 11:41:11.650 -0500
+DI5835,pregnancy examination,false,AS0961,F,2024-09-10 05:23:17.423 -0500
+DI3527,follow-up,false,AS3430,T,2024-09-11 08:12:47.389 -0500
+DI5117,"systemic infection, Canine babesiosis, ",false,AS4660,D,2024-09-16 11:56:46.717 -0500
+DI1724,Organophosphate Toxicosis,false,AS5343,K,2024-09-16 12:04:38.047 -0500
+DI4248,follow-up,false,AS3683,T,2024-09-16 12:13:46.414 -0500
+DI6632,Helminthosis,false,AS2677,T,2024-09-16 12:15:48.597 -0500
+DI2496,Healthy,false,AS7745,D,2024-09-17 02:59:52.343 -0500
+DI0982,left Eye injury,false,AS9364,T,2024-09-17 06:32:35.640 -0500
+DI5033,Gastritis/ helminthosis,false,AS5281,T,2024-09-17 07:59:49.448 -0500
+DI3236,Helminthosis,false,AS4885,K,2024-09-18 09:11:45.324 -0500
+DI3237,Gastritis? Parvo viral enteritis? food poisoning?,false,AS0910,K,2024-09-18 10:18:56.264 -0500
+DI5474,"systemic infection, Canine babesiosis?",false,AS3743,T,2024-09-18 10:29:16.632 -0500
+DI6047,follow-up,false,AS6972,T,2024-09-19 06:32:02.136 -0500
+DI5297,Vaccination,false,AS7571,T,2024-09-19 10:56:47.330 -0500
+DI7859,dystocia ,false,AS7648,F,2024-09-20 04:54:18.669 -0500
+DI7342,demodectic mange,false,AS0029,F,2024-09-20 06:02:05.094 -0500
+DI2834,pustular dematitis,false,AS0029,K,2024-09-20 06:02:05.098 -0500
+DI7239,none,false,AS3303,F,2024-09-20 04:39:27.231 -0500
+DI9626,Vaccination,false,AS6716,F,2024-11-07 05:34:34.959 -0600
+DI9409,"systemic infection?, heat stroke??",false,AS9456,K,2024-11-07 05:46:20.366 -0600
+DI4001,Vaccination,false,AS3112,F,2024-11-07 05:53:41.828 -0600
+DI6869,Gastritis,false,AS8166,K,2024-11-22 05:22:58.217 -0600
+DI7153,Parvo,false,AS8166,K,2024-11-22 05:22:58.221 -0600
+DI8071,Babesiosis,false,AS3717,K,2024-11-22 06:11:43.512 -0600
+DI7837,Bacterial Infection,false,AS3717,K,2024-11-22 06:11:43.509 -0600

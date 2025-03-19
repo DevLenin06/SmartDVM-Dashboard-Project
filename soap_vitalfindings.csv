@@ -1,0 +1,950 @@
+"id","input_type","title","content","parameter","objective_id"
+VI8655,number,Weight,"4",Kg,OB4809
+VI0249,number,RT,"38.9",C,OB1738
+VI8128,number,Weight,n/a,Kg,OB1738
+VI1604,number,RT,"39.1",C,OB0424
+VI0400,number,Weight,"3.5",Kg,OB0424
+VI0886,number,Temperature,"39.6",C,OB3809
+VI0031,number,weight,"9.5",kg,OB3809
+VI5062,number,Weight,"1.25",Kg,OB0903
+VI7148,number,Mentation,BAR,,OB0903
+VI2360,number,RT,"37.5",C,OB5090
+VI4705,number,RT,niil,C,OB0781
+VI3054,number,Weight,nil,Kg,OB0781
+VI1555,number,RT,"40.1",C,OB1263
+VI7166,number,Weight,"8.05",Kg,OB1263
+VI7183,number,RT,"38.9",C,OB8024
+VI3538,number,Weight,"8.9",Kg,OB8024
+VI7408,number,RT,"39.1",C,OB8987
+VI5145,number,Weight,"10.5",Kg,OB8987
+VI5203,number,RT,"40.4",C,OB4088
+VI8958,number,Weight,"26",Kg,OB4088
+VI5299,number,Mentation,BAR,,OB4088
+VI1639,number,CRT,"2",Secs,OB4088
+VI2053,number,RT,"38.8",C,OB9851
+VI2639,number,Weight,"8.8",Kg,OB9851
+VI5027,number,Mentation,BAR,,OB9851
+VI8418,number,CRT,"2",Secs,OB9851
+VI0820,number,RT,"40.6",C,OB9813
+VI8413,number,Weight,"26KG",Kg,OB9813
+VI6309,number,RT,"35.0",C,OB5470
+VI2873,number,Weight,"0.5",Kg,OB5470
+VI1091,number,RT,"39.1",C,OB7747
+VI0340,number,Weight,"26",Kg,OB7747
+VI9100,number,RT,"39.1",C,OB3394
+VI8670,number,Weight,"9.05",Kg,OB3394
+VI0078,number,RT,"38.9",C,OB4567
+VI6729,number,Weight,"18.5",Kg,OB4567
+VI1557,number,RT,"38.3",C,OB9933
+VI1337,number,Weight,"8.5",Kg,OB9933
+VI8953,number,RT,"38.6",C,OB4545
+VI3171,number,weight,"1.8",Kg,OB4545
+VI5153,number,RT,"38.7",C,OB5927
+VI7345,number,Weight,"1.9",Kg,OB5927
+VI4135,number,RT,"39.7",C,OB4032
+VI8111,number,Weight,"6.35",Kg,OB4032
+VI4676,number,RT,"38.9",C,OB5964
+VI6407,number,Weight,"2.6kg",Kg,OB5964
+VI2654,number,RT,na,C,OB6299
+VI4727,number,Weight,na,Kg,OB6299
+VI1143,number,RT,"39.3",C,OB3421
+VI2531,number,Weight,"8.4",Kg,OB3421
+VI7156,number,RT,"39.8",C,OB3678
+VI7712,number,Weight,"11.85",Kg,OB3678
+VI2004,number,RT,"39.8",C,OB1736
+VI6024,number,Weight,"5.25",Kg,OB1736
+VI4038,number,RT,"39.6",C,OB6190
+VI4750,number,Weight,"2.3",Kg,OB6190
+VI8652,number,Mentation,BAR,,OB6190
+VI4809,number,CRT,"2",Secs,OB6190
+VI4454,number,RT,"38.9",C,OB2608
+VI6098,number,Weight,"6.5",Kg,OB2608
+VI5355,number,RT,"39.7",C,OB2551
+VI4553,number,Weight,"6.35",Kg,OB2551
+VI8103,number,Mentation,QAR,,OB2551
+VI7204,number,RT,"38.7",C,OB4740
+VI4876,number,Weight,"6",Kg,OB4740
+VI3629,number,RT,"38.6",C,OB8774
+VI4610,number,Weight,"3.05",Kg,OB8774
+VI5579,number,RT,"39.1",C,OB2678
+VI0257,number,Weight,"0.8",Kg,OB2678
+VI9823,number,RT,"38.5",C,OB4772
+VI6968,number,Weight,"1.5",Kg,OB4772
+VI7185,number,RT,"39.9",C,OB7199
+VI9256,number,Weight,"13.26",Kg,OB7199
+VI3303,number,RT,"38.4",C,OB1102
+VI4933,number,Weight,NA,Kg,OB1102
+VI8288,number,RT,"38.7",C,OB5751
+VI3612,number,Weight,"11",Kg,OB5751
+VI9874,number,RT,NA,C,OB1551
+VI2005,number,Weight,"12",Kg,OB1551
+VI6875,number,RT,"39.2",C,OB4809
+VI3335,number,RT,"38.9",C,OB4124
+VI2816,number,Weight,"11.4",Kg,OB4124
+VI5075,number,RT,"39.0",C,OB2549
+VI1640,number,Weight,"4.5",Kg,OB2549
+VI0759,number,RT,"38.5",C,OB4641
+VI0809,number,Weight,"1.2",Kg,OB4641
+VI2452,number,Weight,"3.55",Kg,OB6966
+VI9088,number,Mentation,BAR,,OB6966
+VI7603,number,CRT,"2",secs,OB6966
+VI8458,number,RT,"39.4",C,OB8373
+VI9227,number,RT,"40.5",C,OB1429
+VI3752,number,Weight,"3.65",Kg,OB1429
+VI9697,number,Mentation,BAR,,OB1429
+VI5135,number,CRT,"2",secs,OB1429
+VI1768,number,RT,"39.6",C,OB4495
+VI8864,number,Weight,"10.3",Kg,OB4495
+VI1766,number,Mentation,BAR,,OB4495
+VI3755,number,CRT,"2",Secs,OB4495
+VI0379,number,RT,"39.7",C,OB0903
+VI1985,number,CRT,"2",Secs,OB0903
+VI8159,number,RT,"39.5",C,OB3646
+VI0704,number,Weight,"8.1",Kg,OB3646
+VI0275,number,Mentation,BAR,,OB3646
+VI0726,number,CRT,"2",Secs,OB3646
+VI0407,number,RT,"39.1",C,OB4631
+VI8499,number,Weight,"1.5",Kg,OB4631
+VI5176,number,Mentation,BAR,,OB4631
+VI3034,number,CRT,"2",Secs,OB4631
+VI5766,number,RT,"40.1",C,OB7308
+VI1877,number,Weight,"24.5",Kg,OB7308
+VI0887,number,RT,"39.1",C,OB8108
+VI7170,number,Weight,"1.25",Kg,OB8108
+VI1708,number,Mentation,BAR,,OB8108
+VI2048,number,CRT,"2",Secs,OB8108
+VI2865,number,RT,"39.1",C,OB3423
+VI9110,number,Weight,"2.9",Kg,OB3423
+VI6793,number,Mentation,BAR,,OB3423
+VI4796,number,RT,"40.2",C,OB9463
+VI5388,number,Weight,"1.65",Kg,OB6870
+VI4837,number,Mentation,BAR,,OB6870
+VI3715,number,CRT,"2",secs,OB6870
+VI4194,number,RT,"39.1",C,OB6966
+VI3896,number,Weight,"2.4",Kg,OB8373
+VI4550,number,Weight,"20.65",Kg,OB9463
+VI9120,number,RT,"39.7",C,OB6643
+VI0969,number,Weight,"7.4",Kg,OB6643
+VI6318,number,RT,"39.5",C,OB1386
+VI1782,number,Weight,"7kg",Kg,OB1386
+VI5111,number,Mentation,BAR,,OB1386
+VI1287,number,CRT,"2",Secs,OB1386
+VI7360,number,RT,"39.5",C,OB9026
+VI8477,number,Weight,"24.5",Kg,OB9026
+VI3704,number,Mentation,BAR,,OB9026
+VI9101,number,CRT,"2",Secs,OB9026
+VI5489,number,RT,"38.6",C,OB1466
+VI9704,number,Weight,"2.25",Kg,OB1466
+VI9155,number,Mentation,BAR,,OB1466
+VI9165,number,CRT,"2",Secs,OB1466
+VI1791,number,RT,"38.7",C,OB6870
+VI3677,number,RT,"39.0",C,OB1538
+VI2659,number,Weight,"2.5",Kg,OB1538
+VI3748,number,RT,"39.1",C,OB1537
+VI1681,number,Weight,"1.4kg",Kg,OB1537
+VI3600,number,RT,"38.7",C,OB2516
+VI9049,number,Weight,<1,Kg,OB2516
+VI6065,number,RT,"38.5",C,OB1778
+VI3137,number,Weight,"1.4",Kg,OB1778
+VI5982,number,RT,"38.5",C,OB1205
+VI3358,number,RT,"39.6",C,OB2264
+VI7788,number,Weight,"27.6",Kg,OB2264
+VI3726,number,Mentation,BAR,,OB2264
+VI9513,number,RT,"38.5",C,OB6110
+VI4579,number,Weight,"1.8",Kg,OB6110
+VI4374,number,RT,"38.5",C,OB1090
+VI7468,number,Weight,"1.2",Kg,OB1090
+VI4570,number,RT,"38.6",C,OB8345
+VI1375,number,Weight,"6.8",Kg,OB8345
+VI9225,number,Mentation,BAR,,OB8345
+VI5056,number,RT,"39.1",C,OB0082
+VI0296,number,Weight,"11.7",Kg,OB0082
+VI0755,number,Mentation,BAR,,OB0082
+VI3950,number,RT,"38.5",C,OB9295
+VI9023,number,Weight,"1.4",Kg,OB9295
+VI4365,number,RT,"39.2",C,OB3756
+VI7734,number,Weight,"3.75",Kg,OB3756
+VI2057,number,RT,"39.3",C,OB2784
+VI1087,number,Weight,"2.95",Kg,OB2784
+VI7158,number,Mentation,BAR,,OB2784
+VI4841,number,CRT,"2",Secs,OB2784
+VI8598,number,RT,"39.2",C,OB0689
+VI6933,number,Weight,"4.55",Kg,OB0689
+VI1833,number,RT,"38.9",C,OB8276
+VI4383,number,Weight,"11.25",Kg,OB8276
+VI6561,number,Mentation,BAR,,OB8276
+VI0875,number,CRT,"2",Secs,OB8276
+VI1169,number,RT,"39.2",C,OB2045
+VI5371,number,Weight,"3.75",Kg,OB2045
+VI2161,number,Mentation,QAR,,OB2045
+VI1125,number,RT,"38.0",C,OB9162
+VI4088,number,Weight,"3.75",Kg,OB9162
+VI5361,number,Mentation,QAR,,OB9162
+VI3966,number,Weight,"1.4",Kg,OB1205
+VI9174,number,RT,"38.5",C,OB7274
+VI6697,number,Weight,"1.4",Kg,OB7274
+VI9865,number,RT,"38.5",C,OB8035
+VI0196,number,RT,"38.8",C,OB0749
+VI1302,number,Weight,"7.9",Kg,OB0749
+VI7686,number,Mentation,BAR,,OB0749
+VI4762,number,CRT,"2",Secs,OB0749
+VI8459,number,RT,"38.6",C,OB3609
+VI4905,number,Weight,"2.7",Kg,OB3609
+VI9640,number,Mentation,BAR,,OB3609
+VI7556,number,CRT,"2",Secs,OB3609
+VI2712,number,RT,"39.3",C,OB7882
+VI8486,number,Weight,"5.5",Kg,OB7882
+VI3183,number,RT,"38.5",C,OB8842
+VI2385,number,Weight,"5.5",Kg,OB8842
+VI6225,number,Mentation,QAR,,OB8842
+VI5556,number,RT,"39.4",C,OB5765
+VI8672,number,Weight,"4.0",Kg,OB5765
+VI5893,number,Mentation,QAR,,OB5765
+VI2207,number,RT,"39.3",C,OB1196
+VI6115,number,Weight,"2",Kg,OB1196
+VI1691,number,Mentation,BAR,,OB1196
+VI6300,number,CRT,"2",Secs,OB1196
+VI8773,number,RT,"40.2",C,OB5142
+VI9114,number,Weight,"39",Kg,OB5142
+VI0150,number,Mentation,QAR,,OB5142
+VI5866,number,RT,"38.5",C,OB4530
+VI5321,number,Weight,"3.75",Kg,OB4530
+VI7112,number,RT,"38.5",C,OB6616
+VI0354,number,Weight,"11",Kg,OB6616
+VI7667,number,Weight,"1.4",Kg,OB8035
+VI2215,number,RT,"38.5",C,OB7226
+VI4576,number,Weight,"1.4",Kg,OB7226
+VI3256,number,RT,"40.1",C,OB9057
+VI9084,number,Weight,"19.6",Kg,OB9057
+VI6759,number,Mentation,BAR,,OB9057
+VI7558,number,RT,"38.7",C,OB9355
+VI6118,number,Weight,"1.6",Kg,OB9355
+VI9453,number,Mentation,BAR,,OB9355
+VI4342,number,CRT,"2",Secs,OB9355
+VI7258,number,RT,"39.1",C,OB0604
+VI7055,number,Weight,"2.1",Kg,OB0604
+VI4754,number,Mentation,BAR,,OB0604
+VI3076,number,CRT,"2",Secs,OB0604
+VI9283,number,RT,"38.8",C,OB0983
+VI5221,number,Weight,"2.45",Kg,OB0983
+VI3915,number,RT,"38.8",C,OB2047
+VI1122,number,Weight,"4.7",Kg,OB2047
+VI9129,number,Mentation,Dull,,OB2047
+VI9152,number,RT,"38.9",C,OB3491
+VI2912,number,Weight,"3.5",Kg,OB3491
+VI8565,number,Mentation,BAR,,OB3491
+VI2647,number,CRT,"2",Secs,OB3491
+VI9185,number,RT,"39.1",C,OB2470
+VI0343,number,Weight,"2.1",Kg,OB2470
+VI9817,number,Mentation,BAR,,OB2470
+VI4293,number,CRT,"2",Secs,OB2470
+VI3185,number,RT,"39.1",C,OB7329
+VI6010,number,Weight,"3.15",Kg,OB7329
+VI0754,number,Mentation,BAR,,OB7329
+VI9376,number,CRT,"2",Secs,OB7329
+VI7270,number,RT,"38.8",C,OB9923
+VI9367,number,Weight,"4.55",Kg,OB9923
+VI5661,number,Mentation,BAR,,OB9923
+VI7334,number,CRT,"2",Secs,OB9923
+VI8200,number,RT,"38.5",C,OB0422
+VI7564,number,Weight,"2.5",Kg,OB0422
+VI3721,number,RT,"39.1",C,OB6912
+VI1720,number,Weight,"6.7",Kg,OB6912
+VI7612,number,Mentation,BAR,,OB6912
+VI0893,number,CRT,"2",Secs,OB6912
+VI1009,number,RT,"39.1",C,OB7061
+VI7378,number,Weight,"2",Kg,OB7061
+VI3899,number,RT,"39.1",C,OB0299
+VI4600,number,Weight,"0.60",Kg,OB0299
+VI6111,number,RT,"39.6",C,OB0288
+VI7109,number,Weight,"1.95",Kg,OB0288
+VI2624,number,RT,"39.3",C,OB5514
+VI7820,number,Weight,"1.5",Kg,OB5514
+VI0896,number,Mentation,BAR,,OB5514
+VI9612,number,CRT,"2",Secs,OB5514
+VI3553,number,RT,"38.4",C,OB7133
+VI3012,number,Weight,"7.3",Kg,OB7133
+VI8070,number,Mentation,BAR,,OB7133
+VI2597,number,CRT,"2",Secs,OB7133
+VI7626,number,RT,"39.3",C,OB8380
+VI7900,number,Weight,"2.15",Kg,OB8380
+VI5653,number,CRT,"2",Secs,OB8380
+VI6448,number,Mentation,BAR,,OB8380
+VI7521,number,RT,"39.1",C,OB1673
+VI3405,number,Weight,"11.25",Kg,OB1673
+VI3866,number,RT,"39.5",C,OB8971
+VI9195,number,Weight,"3.15",Kg,OB8971
+VI7768,text,Mentation,BAR,,OB8971
+VI6687,number,RT,"39.5",C,OB2081
+VI3594,number,Weight,"8.20",Kg,OB2081
+VI8902,number,Mentation,BAR,,OB2081
+VI0593,number,CRT,"2",Secs,OB2081
+VI3147,number,RT,"39.8",C,OB7505
+VI0421,number,Weight,"1.35",Kg,OB7505
+VI4048,number,Mentation,Dull,,OB7505
+VI6647,number,CRT,"3",Secs,OB7505
+VI4882,number,RT,"38.9",C,OB5481
+VI5924,number,Weight,"1.10",Kg,OB5481
+VI6652,number,Mentation,BAR,,OB5481
+VI5106,number,CRT,"2",Secs,OB5481
+VI8282,number,RT,"38.1",C,OB7111
+VI8563,number,Weight,"1.5",Kg,OB7111
+VI0154,number,Mentation,BAR,,OB7111
+VI5166,number,RT,"39.1",C,OB1991
+VI8478,number,Weight,"6.5",Kg,OB1991
+VI4337,number,Mentation,BAR,,OB1991
+VI0224,number,CRT,"2",Secs,OB1991
+VI2634,number,RT,"38.5",C,OB2864
+VI8927,number,Weight,"5.10",Kg,OB2864
+VI1285,number,Mentation,BAR,,OB2864
+VI8019,number,RT,"39.6",C,OB5398
+VI9134,number,Weight,"1.30",Kg,OB5398
+VI6716,number,RT,"38.5",C,OB0397
+VI6334,number,Weight,"1.50",Kg,OB0397
+VI6661,number,RT,"38.5",C,OB3153
+VI7358,number,Weight,"20",Kg,OB3153
+VI8794,number,Mentation,BAR,,OB3153
+VI4928,number,RT,"38.8",C,OB9275
+VI2094,number,Weight,"1.5",Kg,OB9275
+VI1415,number,Mentation,QAR,,OB9275
+VI4308,number,RT,"38.5",C,OB0626
+VI4211,number,Weight,"1.7",Kg,OB0626
+VI8886,number,RT,"38.5",C,OB9090
+VI4186,number,Weight,"3.70",Kg,OB9090
+VI8220,number,Mentation,BAR,,OB9090
+VI5667,number,CRT,"2",secs,OB9090
+VI5379,number,RT,"38.5",C,OB1717
+VI0586,number,Weight,"1.7",Kg,OB1717
+VI8339,number,RT,"39.5",C,OB5380
+VI7356,number,Weight,"6.10",Kg,OB5380
+VI7200,text,Mentation,BAR,,OB5380
+VI8544,number,RT,"39.0",C,OB5211
+VI7713,number,Weight,"2.35",Kg,OB5211
+VI6396,number,CRT,"2",secs,OB5211
+VI0540,number,Mentation,BAR,,OB5211
+VI5322,number,RT,"38.8",C,OB3822
+VI1940,number,Weight,"1.10",Kg,OB3822
+VI5483,number,CRT,"2",secs,OB3822
+VI4466,number,Mentation,BAR,,OB3822
+VI8905,number,RT,"40.5",C,OB4333
+VI6882,number,Weight,"1.60",Kg,OB4333
+VI8882,number,CRT,"2",secs,OB4333
+VI1706,number,Mentation,BAR,,OB4333
+VI9010,number,RT,"39.2",C,OB2396
+VI3223,number,Weight,"6.20",Kg,OB2396
+VI4372,number,CRT,"2",secs,OB2396
+VI4133,number,Mentation,BAR,,OB2396
+VI6559,number,RT,"39.1",C,OB3142
+VI8937,number,Weight,"3.60",Kg,OB3142
+VI2698,number,CRT,"2",secs,OB3142
+VI2613,number,Mentation,BAR,,OB3142
+VI9796,number,RT,"39.0",C,OB7608
+VI5692,number,Weight,"7.70",Kg,OB7608
+VI2585,number,Mentation,BAR,,OB7608
+VI4170,number,CRT,"2",secs,OB7608
+VI9606,number,RT,"39.0",C,OB0563
+VI3527,number,Weight,"1.70",Kg,OB0563
+VI9807,number,Mentation,BAR,,OB0563
+VI7380,number,CRT,"2",secs,OB0563
+VI3298,number,RT,"39.1",C,OB8834
+VI0664,number,Weight,"8.35",Kg,OB8834
+VI7284,number,Mentation,BAR,,OB8834
+VI9898,number,CRT,"2",Secs,OB8834
+VI1631,number,RT,"39.1",C,OB2511
+VI5540,number,Weight,"7.45",Kg,OB2511
+VI2510,number,Mentation,BAR,,OB2511
+VI8530,number,CRT,"2",Secs,OB2511
+VI8480,number,RT,"39.6",C,OB9601
+VI7987,number,Weight,"5.80",Kg,OB9601
+VI2956,number,CRT,"2",Secs,OB9601
+VI0370,number,Mentation,BAR,,OB9601
+VI8192,number,RT,"38.8",C,OB7495
+VI1238,number,Weight,"3.90",Kg,OB7495
+VI5172,number,CRT,"2",Secs,OB7495
+VI5584,number,Mentation,BAR,,OB7495
+VI2775,number,RT,"39.5",C,OB3888
+VI0852,number,Weight,"4.05",Kg,OB3888
+VI0652,number,CRT,"2",Secs,OB3888
+VI2466,number,RT,"38.7",C,OB2809
+VI4997,number,Weight,"5.7",Kg,OB2809
+VI5335,number,RT,"39.5",C,OB7945
+VI2433,number,Weight,"2.95",Kg,OB7945
+VI6626,number,RT,"39.8",C,OB1000
+VI9917,number,Weight,"6.40",Kg,OB1000
+VI3485,number,RT,"40.6",C,OB4397
+VI2878,number,Weight,"1.40",Kg,OB4397
+VI2438,number,Mentation,BAR,,OB4397
+VI0231,number,CRT,"2",secs,OB4397
+VI8960,number,RT,"39.1",C,OB8234
+VI8752,number,Weight,"6.90",Kg,OB8234
+VI4537,number,CRT,"2",secs,OB8234
+VI6027,number,Mentation,BAR,,OB8234
+VI2590,number,RT,"38.6",C,OB0736
+VI5076,number,Weight,"1.20",Kg,OB0736
+VI9416,number,RT,"39.6",C,OB7504
+VI9097,number,Weight,"5.80",Kg,OB7504
+VI0043,number,RT,"38.6",C,OB6631
+VI4268,number,Weight,"5.6",Kg,OB6631
+VI8959,number,RT,"39.2",C,OB2409
+VI9747,number,Weight,"6.50",Kg,OB2409
+VI3573,number,RT,"39.0",C,OB8496
+VI7149,number,Weight,"3.30",Kg,OB8496
+VI4216,number,Mentation,QAR,,OB8496
+VI0575,number,RT,"39.3",C,OB2399
+VI0494,number,Weight,"8.85",Kg,OB2399
+VI9658,number,RT,"40.2",C,OB4779
+VI1292,number,Weight,"2.85",Kg,OB4779
+VI2108,number,Mentation,BAR,,OB4779
+VI5713,number,CRT,"2",Secs,OB4779
+VI4633,number,RT,"38.6",C,OB6948
+VI0132,number,Weight,"19.65",Kg,OB6948
+VI4775,number,RT,"39.1",C,OB8185
+VI9439,number,Weight,"5.5",Kg,OB8185
+VI2831,number,RT,"38.6",C,OB7626
+VI8493,number,Weight,"19.65",Kg,OB7626
+VI0167,number,RT,"39.0",C,OB0076
+VI5331,number,Weight,"9.60",Kg,OB0076
+VI6881,number,Mentation,BAR,,OB0076
+VI9501,number,CRT,<2,Secs,OB0076
+VI3696,number,RT,"40.8",C,OB3851
+VI9562,number,Weight,"36.0",Kg,OB3851
+VI9039,number,Mentation,BAR,,OB3851
+VI1863,number,RT,"40.1",C,OB3249
+VI4608,number,Weight,"5.50",Kg,OB3249
+VI6090,number,Mentation,BAR,,OB3249
+VI0466,number,CRT,<2,Secs,OB3249
+VI7949,number,RT,"38.1",C,OB3707
+VI8753,number,Weight,"2.95",Kg,OB3707
+VI6556,number,Mentation,BAR,,OB3707
+VI5421,number,RT,"39.6",C,OB5945
+VI9699,number,Weight,"1,75",Kg,OB5945
+VI7525,number,Mentation,BAR,,OB5945
+VI4081,number,RT,"38.5",C,OB3256
+VI7030,number,RT,"39.6",C,OB4941
+VI4371,number,Weight,"4.15",Kg,OB4941
+VI4937,number,RT,"39.5",C,OB0004
+VI0970,number,Weight,"20",Kg,OB0004
+VI4424,number,Mentation,BAR,,OB0004
+VI2158,number,CRT,<2,Secs,OB0004
+VI5642,number,RT,"41.1",C,OB1828
+VI1865,number,Weight,"20",Kg,OB1828
+VI6970,number,RT,"40.2",C,OB6685
+VI1270,number,Weight,"6.20",Kg,OB6685
+VI3125,number,RT,"39.6",C,OB2394
+VI7884,number,Weight,"1.75",Kg,OB2394
+VI9497,number,RT,"39.8",C,OB9160
+VI6593,number,Weight,"1.55",Kg,OB9160
+VI2978,number,RT,"39.0",C,OB5821
+VI5436,number,Weight,"4.35",Kg,OB5821
+VI2406,number,Mentation,BAR,,OB5821
+VI9441,number,CRT,<2,Secs,OB5821
+VI8593,number,RT,"39.4",C,OB1620
+VI6598,number,Weight,"3.45",Kg,OB1620
+VI4320,number,RT,"37.9",C,OB7239
+VI5472,number,Weight,"0.70",Kg,OB7239
+VI0629,number,RT,"38.6",C,OB7858
+VI5605,number,Weight,"1.95",Kg,OB7858
+VI7105,number,RT,"39.2",C,OB9097
+VI2869,number,Weight,"1.75",Kg,OB9097
+VI6454,number,RT,"38.9",C,OB2377
+VI7239,number,Weight,"5.7",Kg,OB2377
+VI9047,number,RT,"37.9",C,OB2860
+VI1711,number,Weight,"0.65",Kg,OB2860
+VI1451,number,Mentation,BAR,,OB2860
+VI3642,number,Heart rate,"70",HR,OB1518
+VI0408,number,Capillary Refill time,"3",Secs,OB1518
+VI9384,number,Temperature,"38",celcius,OB1518
+VI8230,number,Pulse rate,"70",B/m,OB1518
+VI6199,number,Weight,"2.30kg",Kg,OB6230
+VI6762,number,Mentation,BAR,,OB6230
+VI8415,number,RT,"38.7",C,OB6230
+VI7486,number,Temperature,"38",celcius,OB7149
+VI9213,number,Capillary refill Time,"2",Secs,OB7149
+VI1794,number,Temperature,"37.9",celcius,OB9729
+VI8393,number,Hydration,"20",%,OB7148
+VI3438,number,Temperature,"39",celcius,OB4475
+VI6029,number,Capillary refill Time,"2",Secs,OB4475
+VI4718,number,Heart rate,"70",HR,OB4395
+VI5771,number,Capillary Refill time,"3",Secs,OB4395
+VI6692,number,Temperature,"38",celcius,OB4395
+VI1913,number,Heart rate,"60",HR,OB7148
+VI7501,number,Hydration,"20",%,OB3955
+VI6941,number,Capillary Refill time,"2",Secs,OB9729
+VI2913,number,Capillary Refill time,"2",Secs,OB7148
+VI2704,number,Temperature,"39",celcius,OB7148
+VI1282,number,Pulse rate,"70",B/m,OB7148
+VI1722,number,Hydration,"20",%,OB9091
+VI9366,number,Heart rate,"70",HR,OB9091
+VI0749,number,Capillary Refill time,"2",Secs,OB9091
+VI3104,number,Temperature,"38",celcius,OB9091
+VI1592,number,Pulse rate,"70",B/m,OB9091
+VI8326,number,Heart rate,"60",HR,OB3955
+VI1213,number,Capillary Refill time,"2",Secs,OB3955
+VI2080,number,Temperature,"39",celcius,OB3955
+VI5292,number,Pulse rate,"70",B/m,OB3955
+VI9043,number,RT,"39.1",C,OB2656
+VI8979,number,Mentation,BAR,,OB2656
+VI1545,number,Hydration,"25",%,OB7349
+VI0258,number,Heart rate,"60",HR,OB7349
+VI6419,number,Capillary Refill time,"3",Secs,OB7349
+VI7191,number,Temperature,"38.5",celcius,OB7349
+VI2143,number,Pulse rate,"70",B/m,OB7349
+VI1684,number,Weight,"4.55",Kg,OB2656
+VI5234,number,Weight,"6.10",Kg,OB2600
+VI9241,number,Heart rate,"10",HR,OB6036
+VI2168,number,Temperature,"20",celcius,OB6036
+VI4677,number,RT,"38.1",C,OB4929
+VI2424,number,Weight,"8.25",Kg,OB4929
+VI6153,number,Hydration,"20",%,OB5724
+VI6555,number,Heart rate,"60",HR,OB5724
+VI7474,number,Capillary Refill time,"2",Secs,OB5724
+VI6550,number,Temperature,"37.9",celcius,OB5724
+VI4648,number,Pulse rate,"70",B/m,OB5724
+VI3581,number,pulse rate,"90",Bpm,OB4747
+VI4567,number,Hydration,"25",%,OB5472
+VI5359,number,Heart rate,"70",HR,OB5472
+VI8006,number,Capillary Refill time,"2",Secs,OB5472
+VI5126,number,Temperature,"38",celcius,OB5472
+VI9614,number,Pulse rate,"70",B/m,OB5472
+VI4678,number,RT,"37.0",C,OB5942
+VI5681,number,Weight,"1.7",Kg,OB5942
+VI6651,number,RT,"37.0",C,OB1658
+VI9280,number,Weight,"2.7",Kg,OB1658
+VI6179,number,RT,"38.5",C,OB7374
+VI0771,number,Weight,"8.85",Kg,OB7374
+VI9692,number,RT,"38.1",C,OB3073
+VI4333,number,Weight,"4.10",Kg,OB3073
+VI2445,text,Ectoparasites,absent,,OB3073
+VI1680,text,Nails,short,long /short,OB3073
+VI0550,text,Hair coat,smooth,Rough/smooth,OB3073
+VI6293,number,RT,"38.7",C,OB6527
+VI3929,number,Weight,"11",Kg,OB6527
+VI3446,number,RT,"39.8",C,OB8752
+VI8929,number,Weight,"12.9",Kg,OB8752
+VI7341,number,RT,"38.2",C,OB6400
+VI7141,number,Weight,"19.40",Kg,OB6400
+VI8543,number,RT,"38.1",C,OB3942
+VI9016,number,RT,"39.4",C,OB6310
+VI1228,number,Weight,"1.70",Kg,OB6310
+VI4892,number,RT,"37.6",C,OB0072
+VI2408,number,Weight,"10.1",Kg,OB0072
+VI6925,number,RT,"39",C,OB4920
+VI1885,number,Weight,"10.85",Kg,OB4920
+VI4349,number,RT,"38.8",C,OB7637
+VI2050,number,Weight,"10,20",Kg,OB7637
+VI5148,number,RT,"38.7",C,OB3030
+VI2930,number,Weight,"7.35",Kg,OB3030
+VI1325,number,RT,"38.5",C,OB4358
+VI6009,number,Weight,"3.6",Kg,OB4358
+VI8456,number,RT,"37.5",C,OB9318
+VI3126,number,Weight,"6.0",Kg,OB9318
+VI3462,number,RT,"37.8",C,OB4835
+VI6278,number,Weight,"1.1",Kg,OB4835
+VI0849,number,RT,"38.4",C,OB0041
+VI5686,number,Weight,"2.65",Kg,OB0041
+VI2476,number,RT,"38.4",C,OB5934
+VI3669,number,Weight,"2.65",Kg,OB5934
+VI0485,text,Ectoparasites,Absent,,OB0072
+VI8631,text,Nails,long,long /short,OB0072
+VI1043,number,RT,"38.6",C,OB5883
+VI1770,number,Weight,"3.65",Kg,OB5883
+VI9069,number,RT,"39.2",C,OB5338
+VI2851,number,Weight,"7.65",Kg,OB5338
+VI5031,text,Hair coat,smooth,Rough/smooth,OB0072
+VI3774,number,RT,"38.3",C,OB6269
+VI1291,number,Weight,"2.75",Kg,OB9723
+VI5463,number,RT,"38.3",C,OB6801
+VI0672,number,Weight,"1.7",Kg,OB6801
+VI0071,number,Weight,"12.80",Kg,OB1522
+VI5113,number,RT,"38.0",C,OB1779
+VI3493,number,Weight,"1.15",Kg,OB1779
+VI1466,number,RT,"39.5",C,OB2600
+VI2146,number,RT,"39.8",C,OB5449
+VI1018,number,Weight,"7.65",Kg,OB5449
+VI9719,text,Ectoparasites,non,,OB5449
+VI6737,number,RT,"38.3",C,OB1078
+VI9506,number,Weight,"1.90",Kg,OB1078
+VI8211,text,Ectoparasites,non,,OB1078
+VI8928,text,Nails,short,long /short,OB1078
+VI8438,text,Hair coat,smooth,Rough/smooth,OB1078
+VI1898,text,Nails,short,long /short,OB5449
+VI3098,text,Hair coat,smooth,Rough/smooth,OB5449
+VI0918,number,RT,"38.8",C,OB4255
+VI9927,number,Weight,"10.4",Kg,OB4255
+VI3483,number,RT,"38.2",C,OB2512
+VI4290,number,Weight,"19.60",Kg,OB2512
+VI8137,text,Ectoparasites,non,,OB2512
+VI3411,text,Nails,short,long /short,OB2512
+VI1909,text,Hair coat,smooth,Rough/smooth,OB2512
+VI4232,number,RT,"38.0",C,OB0918
+VI9829,number,Weight,"10.70",Kg,OB0918
+VI4818,text,Ectoparasites,non,,OB0918
+VI1052,text,Nails,long,long /short,OB0918
+VI7866,text,Hair coat,smooth,Rough/smooth,OB0918
+VI5503,number,Weight,"11.9",Kg,OB3942
+VI3889,text,Ectoparasites,present,,OB3942
+VI1975,text,Nails,short,long /short,OB3942
+VI4018,text,Hair coat,smooth,Rough/smooth,OB3942
+VI1098,number,Weight,"1.95",Kg,OB8678
+VI9262,text,Ectoparasites,absent,,OB8678
+VI3783,text,Nails,short,long /short,OB8678
+VI7352,text,Hair coat,smooth,Rough/smooth,OB8678
+VI9922,number,Weight,"2.05",Kg,OB6269
+VI2920,text,Ectoparasites,none,,OB6269
+VI1120,text,Nails,short,long /short,OB6269
+VI7342,text,Hair coat,rough,Rough/smooth,OB6269
+VI8985,number,RT,"38.6",C,OB8678
+VI4370,number,RT,"40.3",C,OB7010
+VI3184,number,Weight,"19.20",Kg,OB7010
+VI1525,text,Ectoparasites,none,,OB7010
+VI2876,text,Nails,short,long /short,OB7010
+VI2553,text,Hair coat,smooth,Rough/smooth,OB7010
+VI3345,number,RT,"39.5",C,OB7003
+VI3156,number,Weight,"18.0",Kg,OB7003
+VI5302,text,Ectoparasites,none,,OB7003
+VI4687,text,Nails,short,long /short,OB7003
+VI6037,text,Hair coat,smooth,Rough/smooth,OB7003
+VI6831,number,RT, 39.4,C,OB0663
+VI0954,number,Weight,"10.25",Kg,OB0663
+VI8848,text,Ectoparasites,absent,,OB0663
+VI4350,text,Nails,short,long /short,OB0663
+VI1767,text,Hair coat,smooth,Rough/smooth,OB0663
+VI0100,number,RT,"38.1",C,OB5825
+VI2128,number,Weight,"4.30",Kg,OB5825
+VI0476,text,Ectoparasites,non,,OB5825
+VI0503,text,Nails,short,long /short,OB5825
+VI2552,text,Hair coat,smooth,Rough/smooth,OB5825
+VI7897,number,RT,"38.8",C,OB7788
+VI4306,number,Weight,"4.80",Kg,OB7788
+VI5022,text,Ectoparasites,non,,OB7788
+VI6940,text,Nails,short,long /short,OB7788
+VI6659,text,Hair coat,smooth,Rough/smooth,OB7788
+VI7528,number,RT,"38.5",C,OB3015
+VI6238,number,Weight,"1.05",Kg,OB3015
+VI9360,text,Ectoparasites,none,,OB3015
+VI6746,text,Nails,long,long /short,OB3015
+VI6335,text,Hair coat,rough,Rough/smooth,OB3015
+VI7834,number,RT,"39.4",C,OB6238
+VI7405,number,Weight,"7.05",Kg,OB6238
+VI6534,text,Ectoparasites,present,,OB6238
+VI3875,text,Nails,long,long /short,OB6238
+VI8557,text,Hair coat,rough,Rough/smooth,OB6238
+VI5473,number,RT,"39.1",C,OB3217
+VI2264,number,Weight,"3.05",Kg,OB3217
+VI8759,text,Ectoparasites,non,,OB3217
+VI1481,text,Nails,short,long /short,OB3217
+VI6945,text,Hair coat,smooth,Rough/smooth,OB3217
+VI9091,number,RT,"39.3",C,OB6524
+VI3463,number,Weight,"2.90",Kg,OB6524
+VI7278,text,Ectoparasites,non,,OB6524
+VI4249,text,Nails,short,long /short,OB6524
+VI6527,text,Hair coat,smooth,Rough/smooth,OB6524
+VI3073,number,RT,"37.9",C,OB8791
+VI1574,number,Weight,"0.5",Kg,OB8791
+VI6542,text,Ectoparasites,none,,OB8791
+VI5244,text,Nails,long,long /short,OB8791
+VI1362,text,Hair coat,smooth,Rough/smooth,OB8791
+VI0846,number,RT,"38.4",C,OB3961
+VI3850,number,Weight,"2.05",Kg,OB3961
+VI0908,text,Ectoparasites,non,,OB3961
+VI1593,text,Nails,long,long /short,OB3961
+VI0139,text,Hair coat,smooth,Rough/smooth,OB3961
+VI5588,number,RT,"39.1",C,OB9542
+VI5274,number,Weight,"9.15",Kg,OB9542
+VI1400,text,Ectoparasites,absent,,OB9542
+VI2288,text,Nails,long,long /short,OB9542
+VI7355,text,Hair coat,smooth,Rough/smooth,OB9542
+VI5555,number,RT,"37.8",C,OB9365
+VI4244,number,Weight,"2.90",Kg,OB9365
+VI1939,text,Ectoparasites,non,,OB9365
+VI4047,text,Nails,short,long /short,OB9365
+VI1716,text,Hair coat,smooth,Rough/smooth,OB9365
+VI0588,number,Temperature,"39",celcius,OB4747
+VI8688,number,RT,"38.7",C,OB9628
+VI2781,number,Weight,"5.75",Kg,OB9628
+VI5652,text,Ectoparasites,non,,OB9628
+VI6379,text,Nails,short,long /short,OB9628
+VI6719,text,Hair coat,smooth,Rough/smooth,OB9628
+VI4388,number,RT,"38.5",C,OB6872
+VI0458,number,Weight,"2.90",Kg,OB6872
+VI2888,text,Ectoparasites,non,,OB6872
+VI7497,text,Nails,short,long /short,OB6872
+VI8260,text,Hair coat,smooth,Rough/smooth,OB6872
+VI0248,number,Hydration,"40",%,OB4656
+VI8370,number,Capillary Refill time,"2",Secs,OB4656
+VI9578,number,Temperature,"38",Celcius,OB4656
+VI5108,number,RT,"37.5",C,OB5218
+VI0002,number,Weight,"0.35",Kg,OB5218
+VI9060,text,Ectoparasites,none,,OB5218
+VI2380,text,Nails,short,long /short,OB5218
+VI7965,text,Hair coat,smooth,Rough/smooth,OB5218
+VI2843,number,Weight,"5.05",Kg,OB0677
+VI5140,number,Weight,"19.95",Kg,OB7016
+VI9685,text,Ectoparasites,non,,OB7016
+VI9824,text,Nails,short,long /short,OB7016
+VI8661,text,Hair coat,smooth,Rough/smooth,OB7016
+VI9282,number,Weight,"20.45",Kg,OB5314
+VI0674,text,Ectoparasites,non,,OB0677
+VI0700,text,Nails,short,long /short,OB0677
+VI1016,text,Hair coat,smooth,Rough/smooth,OB0677
+VI8934,number,RT,"38.5",C,OB7016
+VI8467,number,RT,"39.2",C,OB5314
+VI5622,text,Ectoparasites,non,,OB5314
+VI4665,text,Nails,short,long /short,OB5314
+VI4273,text,Hair coat,smooth,Rough/smooth,OB5314
+VI4074,number,RT,"37.9",C,OB0677
+VI2737,number,RT,"38.8",C,OB9723
+VI5702,number,RT,"38.9",C,OB3845
+VI6541,number,Weight,"0.85",Kg,OB3845
+VI5807,text,Ectoparasites,non,,OB3845
+VI5739,text,Nails,long,long /short,OB3845
+VI4684,text,Hair coat,smooth,Rough/smooth,OB3845
+VI5644,number,RT,"38.3",C,OB5032
+VI0105,number,Weight,"2.45",Kg,OB5032
+VI0273,text,Ectoparasites,non,,OB5032
+VI1938,text,Nails,short,long /short,OB5032
+VI2963,text,Hair coat,smooth,Rough/smooth,OB5032
+VI3714,number,RT,"38.7",C,OB0380
+VI8194,number,Weight,"0.75",Kg,OB0380
+VI3138,text,Ectoparasites,non,,OB0380
+VI6838,text,Nails,long,long /short,OB0380
+VI7023,text,Hair coat,smooth,Rough/smooth,OB0380
+VI1431,number,RT,"38.3",C,OB2999
+VI4866,number,Weight,"3.35",Kg,OB2999
+VI6868,text,Ectoparasites,non,,OB2999
+VI5474,text,Nails,short,long /short,OB2999
+VI4100,text,Hair coat,smooth,Rough/smooth,OB2999
+VI6356,number,RT,"38.6",C,OB1812
+VI8233,number,Weight,"2.35",Kg,OB1812
+VI5254,text,Ectoparasites,none,,OB1812
+VI3568,text,Nails,long,long /short,OB1812
+VI5103,text,Hair coat,smooth,Rough/smooth,OB1812
+VI7492,number,RT,"38.8",C,OB0670
+VI0220,number,Weight,"11.5",Kg,OB0670
+VI4488,text,Ectoparasites,none,,OB0670
+VI9483,text,Nails,short,long /short,OB0670
+VI6368,text,Hair coat,rough,Rough/smooth,OB0670
+VI7339,text,Ectoparasites,none,,OB5062
+VI7106,text,Nails,short,long /short,OB5062
+VI7817,text,Hair coat,smooth,Rough/smooth,OB5062
+VI8109,text,Ectoparasites,present,,OB5455
+VI3608,text,Nails,short,long /short,OB5455
+VI8999,text,Hair coat,rough,Rough/smooth,OB5455
+VI0808,number,RT,"38.1",C,OB5042
+VI1659,number,Weight,"7.50",Kg,OB5042
+VI1560,number,RT,"38.2",C,OB8077
+VI0142,number,Weight,"2.40",Kg,OB8077
+VI5040,text,Ectoparasites,present,,OB8077
+VI4176,text,Nails,long,long /short,OB8077
+VI0768,text,Hair coat,smooth,Rough/smooth,OB8077
+VI8287,number,Temperature,"38.5",Celcius,OB4931
+VI1751,number,RT,"37.5",C,OB1571
+VI7802,number,Weight,"2.5",Kg,OB1571
+VI2924,text,Ectoparasites,none,,OB1571
+VI6168,text,Nails,short,long /short,OB1571
+VI3371,text,Hair coat,smooth,Rough/smooth,OB1571
+VI0730,number,RT,"38.2",C,OB2103
+VI3434,number,Weight,"2.65",Kg,OB2103
+VI0728,text,Ectoparasites,none,,OB2103
+VI4264,text,Nails,long,long /short,OB2103
+VI1197,text,Hair coat,rough,Rough/smooth,OB2103
+VI3484,number,RT,"38.6",C,OB5163
+VI4484,number,Weight,"4.70",Kg,OB5163
+VI2248,text,Ectoparasites,present,,OB5163
+VI5951,text,Nails,long,long /short,OB5163
+VI8102,text,Hair coat,smooth,Rough/smooth,OB5163
+VI1658,number,RT,"37.5",C,OB9397
+VI5676,number,Weight,"0.35",Kg,OB9397
+VI8028,text,Ectoparasites,non,,OB9397
+VI7579,text,Nails,long,long /short,OB9397
+VI8963,text,Hair coat,smooth,Rough/smooth,OB9397
+VI2561,number,RT,"38.7",C,OB2776
+VI9912,number,Weight,"6.8",Kg,OB2776
+VI8995,text,Ectoparasites,non,,OB2776
+VI8708,text,Nails,short,long /short,OB2776
+VI5293,text,Hair coat,rough,Rough/smooth,OB2776
+VI5840,number,RT,"40.1",C,OB0222
+VI5091,number,Weight,"5.60",Kg,OB0222
+VI0193,text,Ectoparasites,present,,OB0222
+VI8165,text,Nails,long,long /short,OB0222
+VI3025,text,Hair coat,smooth,Rough/smooth,OB0222
+VI8908,text,Ectoparasites,present,,OB5042
+VI5424,text,Nails,short,long /short,OB5042
+VI0434,number,Capillary Refill time,"2",Secs,OB2703
+VI2055,number,RT,"39.4",C,OB5455
+VI2810,number,Weight,"5.00",Kg,OB5455
+VI8740,text,Hair coat,smooth,Rough/smooth,OB5042
+VI2989,number,RT,"38.9",C,OB7511
+VI1966,number,Weight,"4.7",Kg,OB7511
+VI8554,text,Ectoparasites,present,,OB7511
+VI9104,text,Nails,short,long /short,OB7511
+VI8506,text,Hair coat,smooth,Rough/smooth,OB7511
+VI1067,number,RT,"38.8",C,OB3906
+VI6600,number,Weight,"6.10",Kg,OB3906
+VI3596,text,Ectoparasites,non,,OB3906
+VI7765,text,Nails,long,Long / Short,OB3906
+VI6549,text,Hair coat,rough,Rough / Smooth,OB3906
+VI8224,number,RT,"38.5",C,OB1804
+VI2612,number,Weight,"6.10",Kg,OB1804
+VI9432,text,Ectoparasites,non,,OB1804
+VI6489,text,Nails,long,long /short,OB1804
+VI5665,text,Hair coat,rough,Rough/smooth,OB1804
+VI1029,number,RT,"39.8",C,OB9343
+VI1632,number,Weight,"5.90",Kg,OB9343
+VI1850,text,Ectoparasites,present,,OB9343
+VI9350,text,Nails,long,long /short,OB9343
+VI3452,text,Hair coat,smooth,Rough/smooth,OB9343
+VI4364,number,RT,"38.8",C,OB7518
+VI8914,number,Weight,"3.40",Kg,OB7518
+VI3048,text,Ectoparasites,non,,OB7518
+VI0993,text,Nails,short,long /short,OB7518
+VI7545,text,Hair coat,smooth,Rough/smooth,OB7518
+VI3390,number,Temperature,"38",Celcius,OB2703
+VI2430,number,Weight,"3.35",Kg,OB2826
+VI8462,text,Ectoparasites,non,,OB2826
+VI4037,text,Nails,short,long /short,OB2826
+VI2687,number,RT,"38.5",C,OB8733
+VI2859,text,Hair coat,smooth,Rough/smooth,OB2826
+VI0784,number,RT,"40.7",C,OB2826
+VI7889,number,Weight,"9.1",Kg,OB8733
+VI6906,text,Ectoparasites,none,,OB8733
+VI7508,text,Nails,short,long /short,OB8733
+VI6999,text,Hair coat,smooth,Rough/smooth,OB8733
+VI6001,number,RT,"39.7",C,OB5638
+VI9326,number,Weight,"40.50",Kg,OB5638
+VI6020,text,Ectoparasites,non,,OB5638
+VI5451,text,Nails,long,long /short,OB5638
+VI2132,text,Hair coat,smooth,Rough/smooth,OB5638
+VI4842,number,RT,"38.8",C,OB3469
+VI2474,number,Weight,"2.70",Kg,OB3469
+VI6818,text,Nails,long,long /short,OB3469
+VI1178,text,Hair coat,smooth,Rough/smooth,OB3469
+VI0060,text,Ectoparasites,non,,OB3469
+VI1159,number,RT,"39.1",C,OB6553
+VI9693,number,Weight,"7.10",Kg,OB6553
+VI5663,text,Ectoparasites,none,,OB6553
+VI7455,text,Nails,long,long /short,OB6553
+VI2996,text,Hair coat,smooth,Rough/smooth,OB6553
+VI4517,number,RT,"39.2",C,OB5517
+VI9051,number,Weight,"5.3",Kg,OB5517
+VI7420,text,Ectoparasites,none,,OB5517
+VI6915,text,Nails,long,long /short,OB5517
+VI3739,text,Hair coat,smooth,Rough/smooth,OB5517
+VI0095,number,RT,"38.1",C,OB4865
+VI1664,number,Weight,"2.8",Kg,OB4865
+VI8351,text,Ectoparasites,non,,OB4865
+VI8329,text,Nails,short,long /short,OB5146
+VI3316,text,Hair coat,smooth,Rough/smooth,OB5146
+VI8473,text,Nails,short,long /short,OB4865
+VI4224,text,Hair coat,smooth,Rough/smooth,OB4865
+VI4996,number,RT,"39.4",C,OB1710
+VI7459,number,Weight,"5.10",Kg,OB1710
+VI8658,text,Ectoparasites,present,,OB1710
+VI5416,text,Nails,short,long /short,OB1710
+VI4283,text,Hair coat,rough,Rough/smooth,OB1710
+VI2201,text,Ectoparasites,none,,OB0047
+VI2503,number,RT,"38.9",C,OB4332
+VI7634,number,Weight,"1.35",Kg,OB4332
+VI1845,text,Ectoparasites,non,,OB4332
+VI7116,text,Nails,short,long /short,OB4332
+VI0158,text,Hair coat,smooth,Rough/smooth,OB4332
+VI5634,number,RT,"39.0",C,OB6492
+VI1606,number,Weight,"3.50",Kg,OB6492
+VI6050,text,Ectoparasites,non,,OB6492
+VI2914,text,Nails,short,long /short,OB6492
+VI7248,text,Hair coat,smooth,Rough/smooth,OB6492
+VI8060,number,RT,"36.8",C,OB2224
+VI4607,number,Weight,"6.05",Kg,OB2224
+VI2204,text,Ectoparasites,none,,OB2224
+VI9379,text,Nails,long,long /short,OB2224
+VI2805,text,Hair coat,smooth,Rough/smooth,OB2224
+VI6424,number,RT,"39.3",C,OB5577
+VI0595,number,Weight,"48.7",Kg,OB5577
+VI0159,text,Ectoparasites,none,,OB5577
+VI8340,text,Nails,short,long /short,OB5577
+VI0305,text,Hair coat,smooth,Rough/smooth,OB5577
+VI0146,number,RT,"39.6",C,OB8477
+VI4720,number,Weight,"9.0",Kg,OB8477
+VI4925,text,Ectoparasites,non,,OB8477
+VI8228,text,Nails,short,long /short,OB8477
+VI3016,text,Hair coat,smooth,Rough/smooth,OB8477
+VI3422,number,RT,"38.6",C,OB9315
+VI5877,number,Weight,"9.0",Kg,OB9315
+VI2769,text,Ectoparasites,non,,OB9315
+VI1707,text,Nails,short,long /short,OB9315
+VI9667,text,Hair coat,smooth,Rough/smooth,OB9315
+VI6607,number,RT,"38.4",C,OB5146
+VI9296,number,Weight,"5.65",Kg,OB5146
+VI9995,text,Ectoparasites,non,,OB5146
+VI1932,text,Nails,short,long /short,OB0047
+VI7076,text,Hair coat,rough,Rough/smooth,OB0047
+VI2007,number,RT,"38.9",C,OB9524
+VI8628,number,Weight,"6.65",Kg,OB9524
+VI4695,text,Ectoparasites,none,,OB9524
+VI7944,text,Nails,long,long /short,OB9524
+VI0792,text,Hair coat,smooth,Rough/smooth,OB9524
+VI4936,number,Weight,"20.3",Kg,OB9066
+VI0335,text,Ectoparasites,none,,OB9066
+VI2700,text,Nails,long,long /short,OB9066
+VI9469,text,Hair coat,rough,Rough/smooth,OB9066
+VI4147,number,RT,"38.9",C,OB7591
+VI9514,number,Weight,"1.50",Kg,OB7591
+VI6992,text,Ectoparasites,non,,OB7591
+VI6678,text,Nails,long,long /short,OB7591
+VI4175,text,Hair coat,smooth,Rough/smooth,OB7591
+VI3733,number,RT,"38.2",C,OB2778
+VI8640,number,Weight,"0.05",Kg,OB2778
+VI2824,text,Ectoparasites,non,,OB2778
+VI9339,text,Nails,long,long /short,OB2778
+VI6176,text,Hair coat,smooth,Rough/smooth,OB2778
+VI8839,number,RT,"38.1",C,OB9916
+VI7496,number,Weight,"0.80",Kg,OB9916
+VI9536,text,Ectoparasites,non,,OB9916
+VI2795,text,Nails,long,long /short,OB9916
+VI4932,text,Hair coat,smooth,Rough/smooth,OB9916
+VI3856,number,RT,"38.1",C,OB7023
+VI3206,number,Weight,"2.25",Kg,OB7023
+VI0812,text,Ectoparasites,non,,OB7023
+VI5243,text,Nails,long,long /short,OB7023
+VI2304,text,Hair coat,smooth,Rough/smooth,OB7023
+VI1311,number,RT,"38.6",C,OB3415
+VI3741,number,Weight,"1.65",Kg,OB3415
+VI2308,text,Ectoparasites,non,,OB3415
+VI0307,text,Nails,long,long /short,OB3415
+VI5180,text,Hair coat,smooth,Rough/smooth,OB3415
+VI1439,number,RT,"39.1",C,OB5029
+VI7803,number,Weight,"3.75",Kg,OB5029
+VI3684,text,Ectoparasites,present,,OB5029
+VI8704,text,Nails,short,long /short,OB5029
+VI4950,text,Hair coat,smooth,Rough/smooth,OB5029
+VI9609,number,RT,"38.5",C,OB4924
+VI6954,number,Weight,"1.30",Kg,OB4924
+VI1674,text,Ectoparasites,non,,OB4924
+VI3423,text,Nails,short,long /short,OB4924
+VI7610,text,Hair coat,smooth,Rough/smooth,OB4924
+VI0001,number,RT,"40.0",C,OB7617
+VI8798,number,Weight,"19.60",Kg,OB7617
+VI9140,text,Ectoparasites,non,,OB7617
+VI8584,text,Nails,short,long /short,OB7617
+VI5309,text,Hair coat,smooth,Rough/smooth,OB7617
+VI5191,number,RT,"39.3",C,OB2306
+VI9894,number,Weight,"4.6",Kg,OB2306
+VI0294,text,Ectoparasites,non,,OB2306
+VI2363,text,Nails,short,long /short,OB2306
+VI6234,text,Hair coat,smooth,Rough/smooth,OB2306
+VI1430,number,RT,"39.0",C,OB2606
+VI9515,number,Weight,"6.0",Kg,OB2606
+VI7082,text,Ectoparasites,non,,OB2606
+VI9505,text,Nails,short,long /short,OB2606
+VI1236,text,Hair coat,smooth,Rough/smooth,OB2606
+VI3591,number,RT,"38.3",C,OB6100
+VI9388,number,Weight,"7.3",Kg,OB6100
+VI3656,text,Ectoparasites,non,,OB6100
+VI5348,text,Nails,short,long /short,OB6100
+VI4549,text,Hair coat,smooth,Rough/smooth,OB6100
+VI1530,number,Temperature,"38.5",celcius,OB8869
+VI1068,number,Heart rate,"56",beats/min,OB8869
+VI0488,text,Mucous membrane,"2","",OB8869
+VI3373,number,Temperature,"42.1",celcius,OB6789
+VI5989,number,Capillary refill Time,"2",Secs,OB6789
+VI6911,text,Mucous membrane,pink,"",OB6789

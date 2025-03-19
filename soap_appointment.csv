@@ -1,0 +1,380 @@
+"id","appointment_type","appointment_reason","is_admitted","boarding_type","boarding_size","appointment_status","cancelation_reason","appointment_date","appointment_checkout_date","date_created","is_cancelled","in_progress","is_completed","clinic_id","patient_id","doctor_assigned_id","payment_made","boarding_status"
+AP8490,Followup Appointment,"1st shot dhlpp",false,cage,small,completed,,2024-02-17 02:00:00.000 -0600,,2024-01-27 08:27:30.047 -0600,false,false,true,CL1165,PA5281,CL3516,true,
+AP1282,In patient,NIL,false,,,completed,,2024-01-17 06:29:00.000 -0600,,2024-01-09 03:35:23.289 -0600,false,false,true,CL1165,PA5064,CL3246,false,
+AP3479,Followup Appointment,,false,cage,small,In Progress,,2024-01-26 10:10:00.000 -0600,,2024-01-26 10:10:33.529 -0600,false,true,false,CL1165,PA6722,CL3516,false,
+AP1835,Out patient,full organ scan,false,,,upcoming,,2024-01-11 03:30:00.000 -0600,,2024-01-15 09:50:29.099 -0600,false,false,false,CL1165,PA3168,CL5579,false,
+AP7663,In patient,Total grooming,false,,,completed,,2024-01-29 04:00:00.000 -0600,,2024-01-29 06:33:18.581 -0600,false,false,true,CL1165,PA8153,CL5579,true,
+AP9573,In patient,General Checkup,false,,,In Progress,,2024-01-31 05:30:00.000 -0600,,2024-01-31 07:27:55.224 -0600,false,true,false,CL1165,PA0533,CL5579,true,
+AP2434,In patient,General Check up,false,,,In Progress,,2024-01-23 06:00:00.000 -0600,,2024-01-23 06:13:33.688 -0600,false,true,false,CL1165,PA3087,CL3516,false,
+AP9103,In patient,Vaccination,false,,,completed,,2024-02-20 04:50:00.000 -0600,,2024-02-21 02:02:35.459 -0600,false,false,true,CL1165,PA2555,CL3516,true,
+AP9351,In patient,persistent vomiting,false,,,In Progress,,2024-01-10 03:30:00.000 -0600,,2024-01-15 10:03:16.741 -0600,false,true,false,CL1165,PA3168,CL3516,true,
+AP4963,In patient,Not eating well,false,,,completed,,2024-01-29 02:30:00.000 -0600,,2024-01-29 02:51:26.505 -0600,false,false,true,CL1165,PA1993,CL5579,true,
+AP9182,Followup Appointment,nil,false,cage,small,upcoming,,2024-01-16 03:44:00.000 -0600,,2024-01-16 03:44:22.596 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP4407,Followup Appointment,nil,false,cage,small,upcoming,,2024-01-16 03:44:00.000 -0600,,2024-01-16 03:44:44.132 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP6423,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 07:56:00.000 -0600,,2024-01-25 07:57:32.655 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP6166,Followup Appointment,nil,false,cage,small,upcoming,,2024-01-16 03:50:00.000 -0600,,2024-01-16 03:50:19.969 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP9012,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 07:56:00.000 -0600,,2024-01-25 07:59:02.390 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP2378,In patient,Discharge,false,,,completed,,2024-01-16 01:41:00.000 -0600,,2024-01-16 03:33:11.075 -0600,false,false,true,CL1165,PA6722,CL3516,false,
+AP9404,In patient,Scratching of face,false,,,completed,,2024-01-23 05:21:00.000 -0600,,2024-01-23 05:25:07.447 -0600,false,false,true,CL1165,PA0138,CL3516,false,
+AP9917,Followup Appointment,nil,false,cage,small,upcoming,,2024-01-16 04:00:00.000 -0600,,2024-01-16 04:00:29.620 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP0001,Out patient,Scratching of the face,false,,,completed,,2024-01-23 06:00:00.000 -0600,,2024-01-23 05:12:34.109 -0600,false,false,true,CL1165,PA3650,CL3516,false,
+AP2783,In patient,DHLPP,false,,,In Progress,,2024-02-02 06:00:00.000 -0600,,2024-02-02 07:00:18.643 -0600,false,true,false,CL1165,PA6729,CL5579,false,
+AP7093,In patient,Deworming,false,,,Visited,,2024-02-08 04:05:00.000 -0600,,2024-02-08 04:29:58.682 -0600,false,true,false,CL1165,PA5936,CL3516,false,
+AP7350,Followup Appointment,nil,false,cage,small,upcoming,,2024-01-16 04:38:00.000 -0600,,2024-01-16 04:38:38.368 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP6767,In patient,General Check up,false,,,completed,,2024-01-23 06:00:00.000 -0600,,2024-01-23 06:14:38.212 -0600,false,false,true,CL1165,PA6342,CL3516,true,
+AP0438,Followup Appointment,,false,cage,small,completed,,2024-01-26 15:00:00.000 -0600,,2024-01-25 07:05:39.672 -0600,false,false,true,CL1165,PA7225,CL3516,true,
+AP6547,In patient,Not eating,false,,,Visited,,2024-02-08 04:00:00.000 -0600,,2024-02-08 04:28:45.537 -0600,false,true,false,CL1165,PA9779,CL3516,false,
+AP4603,In patient,Loss of appetite and vomiting,false,,,completed,,2024-02-07 09:00:00.000 -0600,,2024-02-07 09:24:30.392 -0600,false,false,true,CL1165,PA6407,CL3516,true,
+AP6667,In patient,General check up,false,,,completed,,2024-02-05 10:00:00.000 -0600,,2024-02-05 10:12:02.531 -0600,false,false,true,CL1165,PA1213,CL3516,true,
+AP7213,In patient,Pet not eating,false,,,completed,,2024-01-22 02:00:00.000 -0600,,2024-01-22 04:24:34.949 -0600,false,false,true,CL1165,PA9050,CL5579,false,
+AP6379,In patient,,false,,,completed,,2024-01-16 01:00:00.000 -0600,,2024-01-16 03:27:59.377 -0600,false,false,true,CL1165,PA6722,CL5579,true,
+AP8042,In patient,aanan,false,,,canceled,"",2024-01-10 20:10:00.000 -0600,,2024-01-20 02:10:24.225 -0600,true,false,false,CL1165,PA5064,CL5579,false,
+AP0956,In patient,Ehrlichiosis,false,,,completed,,2024-01-23 08:00:00.000 -0600,,2024-01-24 01:34:20.172 -0600,false,false,true,CL1165,PA9050,CL5579,false,
+AP3797,In patient,Deworming,false,,,visited,,2024-01-20 09:30:00.000 -0600,,2024-01-20 09:27:58.451 -0600,false,true,false,CL1165,PA2903,CL3516,true,
+AP4315,Followup Appointment,,false,cage,small,completed,,2024-01-24 02:43:00.000 -0600,,2024-01-24 03:52:14.871 -0600,false,false,true,CL1165,PA9050,CL5579,false,
+AP5603,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 05:58:00.000 -0600,,2024-01-25 06:58:31.111 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP4466,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 06:01:00.000 -0600,,2024-01-25 07:04:36.642 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP1268,In patient,dull and inactive,false,,,completed,,2024-01-27 06:55:00.000 -0600,,2024-01-27 07:06:36.515 -0600,false,false,true,CL1165,PA3507,CL3516,true,
+AP8430,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 06:14:00.000 -0600,,2024-01-25 07:14:32.452 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP3929,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 06:15:00.000 -0600,,2024-01-25 07:15:41.542 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP1083,In patient,"Not Active, very weak and watery stool",false,,,In Progress,,2024-01-25 02:59:00.000 -0600,,2024-01-25 02:26:11.188 -0600,false,true,false,CL1165,PA7225,CL3516,false,
+AP8969,In patient,GENERAL CHECKUP,false,,,completed,,2024-01-25 09:31:00.000 -0600,,2024-01-25 09:55:02.977 -0600,false,false,true,CL1165,PA2853,CL5579,false,
+AP7747,Followup Appointment,,false,cage,small,upcoming,,2024-01-25 10:33:00.000 -0600,,2024-01-25 10:35:05.824 -0600,false,false,false,CL1165,PA9050,CL5579,false,
+AP3264,In patient,General Checkup,false,,,completed,,2024-01-24 05:30:00.000 -0600,,2024-01-24 06:28:03.056 -0600,false,false,true,CL1165,PA7962,CL5579,false,
+AP3502,In patient,fought with the mother and sustained a scratch,false,,,In Progress,,2024-01-27 07:01:00.000 -0600,,2024-01-27 08:18:41.003 -0600,false,true,false,CL1165,PA6916,CL3516,false,
+AP5182,Followup Appointment,,false,cage,small,upcoming,,2024-01-26 10:11:00.000 -0600,,2024-01-26 10:13:29.122 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP4622,Followup Appointment,,false,cage,small,upcoming,,2024-01-26 10:13:00.000 -0600,,2024-01-26 10:13:49.757 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP6624,Followup Appointment,nil,false,cage,small,In Progress,,2024-01-23 02:00:00.000 -0600,,2024-01-16 03:39:56.133 -0600,false,true,true,CL1165,PA6722,CL3516,false,
+AP5956,In patient,dhlpp vaccination,false,,,completed,,2024-01-27 08:00:00.000 -0600,,2024-01-27 08:21:08.312 -0600,false,false,true,CL1165,PA5281,CL3516,true,
+AP0319,In patient,Deworming,false,,,visited,,2024-02-01 05:31:00.000 -0600,,2024-02-01 06:01:12.441 -0600,false,true,false,CL1165,PA0111,CL3516,true,
+AP3820,In patient,Deworming,false,,,visited,,2024-02-01 05:30:00.000 -0600,,2024-02-01 05:32:19.018 -0600,false,true,false,CL1165,PA8145,CL3516,true,
+AP7294,In patient,PET HAS PAIN IN THE LEG,false,,,completed,,2024-01-31 08:00:00.000 -0600,,2024-01-31 08:35:04.873 -0600,false,false,true,CL1165,PA3507,CL3516,true,
+AP6040,Followup Appointment,,false,cage,small,completed,,2025-01-24 04:00:00.000 -0600,,2024-01-25 08:51:34.838 -0600,false,false,true,CL1165,PA9050,CL5579,false,
+AP5078,In patient,Total Grooming,false,,,Visited,,2024-01-31 03:00:00.000 -0600,,2024-01-31 07:26:48.087 -0600,false,true,false,CL1165,PA8438,CL5579,false,
+AP5998,In patient,Registration and check up,false,,,upcoming,,2024-02-02 02:30:00.000 -0600,,2024-02-02 04:03:39.250 -0600,false,false,false,CL1165,PA0708,CL5579,false,
+AP6600,In patient,General Check up,false,,,upcoming,,2024-02-02 08:00:00.000 -0600,,2024-02-02 08:07:02.278 -0600,false,false,false,CL1165,PA7862,CL5579,false,
+AP6666,In patient,"DHLPP, Rabies and deworming",false,,,completed,,2024-02-09 08:00:00.000 -0600,,2024-02-12 03:44:18.040 -0600,false,false,true,CL1165,PA8053,CL5579,false,
+AP4488,In patient,Parvo +ive,false,,,completed,,2024-02-08 08:00:00.000 -0600,,2024-02-08 09:29:22.455 -0600,false,false,true,CL1165,PA6407,CL5579,false,
+AP4296,In patient,DHLPP,false,,,Visited,,2024-02-04 08:30:00.000 -0600,,2024-02-05 10:15:09.743 -0600,false,true,false,CL1165,PA8153,CL5579,false,
+AP7319,Out patient,First visit,false,,,completed,,2024-02-19 04:29:00.000 -0600,,2024-02-19 05:24:34.875 -0600,false,false,true,CL1165,PA1229,CL3516,true,
+AP9301,In patient,Dew and Vaccination,false,,,completed,,2024-03-05 03:50:00.000 -0600,,2024-03-05 03:27:47.783 -0600,false,false,true,CL1165,PA4886,CL3516,true,open
+AP2078,Out patient,dhlpp shot,false,,,canceled,duplicate,2024-02-03 09:00:00.000 -0600,,2024-02-21 02:20:53.751 -0600,true,false,false,CL1165,PA0533,CL3516,false,
+AP1298,In patient,Vaccination,false,,,In Progress,,2024-03-01 03:00:00.000 -0600,,2024-03-01 04:01:32.666 -0600,false,true,false,CL1165,PA2781,CL5579,false,open
+AP5196,In patient,Pet was presented for vaginal cytology,false,,,completed,,2024-03-06 02:41:00.000 -0600,,2024-03-06 09:21:31.646 -0600,false,false,true,CL1165,PA0758,CL3516,true,open
+AP8253,In patient,Skin Infection,false,,,completed,,2024-02-12 09:20:00.000 -0600,,2024-02-12 09:23:51.982 -0600,false,false,true,CL1165,PA5817,CL3516,true,
+AP6845,In patient,Reg,false,,,In Progress,,2024-02-20 09:35:00.000 -0600,,2024-02-21 02:19:02.541 -0600,false,true,false,CL1165,PA7655,CL5579,false,
+AP8742,In patient,pet had an accident,false,,,In Progress,,2024-02-08 04:20:00.000 -0600,,2024-02-08 04:38:21.996 -0600,false,true,false,CL1165,PA3872,CL3516,false,
+AP6269,In patient,Dog bleeds from the nostrils sometimes,false,,,In Progress,,2024-03-04 08:09:00.000 -0600,,2024-03-04 08:41:33.537 -0600,false,true,false,CL1165,PA0316,CL5579,false,open
+AP4974,In patient,Swollen paw,false,,,completed,,2024-02-13 06:50:00.000 -0600,,2024-02-13 07:00:06.815 -0600,false,false,true,CL1165,PA2327,CL3516,true,
+AP2797,In patient,No complain. Pet was presented for vaccination,false,,,completed,,2024-03-04 02:50:00.000 -0600,,2024-03-04 08:01:32.969 -0600,false,false,true,CL1165,PA8153,CL3516,true,open
+AP0719,In patient,Boarding,false,In-house,,completed,,2024-02-09 04:00:00.000 -0600,2024-02-11 09:00:00.000 -0600,2024-02-12 03:57:14.495 -0600,false,false,true,CL1165,PA8153,CL5579,false,
+AP6673,In patient,"Not eating and cannot walk,
+infested with ticks.",false,,,completed,,2024-02-12 03:19:00.000 -0600,,2024-02-12 04:00:14.101 -0600,false,false,true,CL1165,PA2008,CL5579,false,
+AP4843,In patient,No complaint,false,,,Visited,,2024-02-21 09:10:00.000 -0600,,2024-02-21 09:19:19.602 -0600,false,true,false,CL1165,PA3469,CL5579,false,
+AP3098,In patient,General check up,false,,,completed,,2024-02-12 03:00:00.000 -0600,,2024-02-12 03:54:50.727 -0600,false,false,true,CL1165,PA6926,CL5579,false,
+AP1524,In patient,General checkup,false,,,completed,,2024-02-12 03:00:00.000 -0600,,2024-02-12 03:45:58.110 -0600,false,false,true,CL1165,PA2701,CL5579,false,
+AP7096,In patient,Parvo virus,false,,,completed,,2024-02-09 02:00:00.000 -0600,,2024-02-14 09:14:26.474 -0600,false,false,true,CL1165,PA6407,CL5579,false,
+AP8501,In patient,Check up,false,,,Visited,,2024-02-26 08:19:00.000 -0600,,2024-02-26 08:34:05.289 -0600,false,true,false,CL1165,PA4841,CL5579,false,
+AP4490,Out patient,"1st shot dhpp",false,,,completed,,2024-02-17 05:00:00.000 -0600,,2024-02-17 05:34:52.804 -0600,false,false,true,CL1165,PA7862,CL3516,true,
+AP7615,In patient,Cherry eye Surgery,false,,,upcoming,,2024-01-11 05:00:00.000 -0600,,2024-02-19 03:18:03.321 -0600,false,false,false,CL1165,PA6722,CL3516,false,
+AP1987,In patient,,false,,,Visited,,2024-02-26 05:05:00.000 -0600,,2024-02-26 08:32:37.704 -0600,false,true,false,CL1165,PA9996,CL5579,false,
+AP8655,In patient,Pet was presented for Dhlpp vaccination and dew,false,,,completed,,2024-03-08 06:05:00.000 -0600,,2024-03-08 08:53:56.782 -0600,false,false,true,CL1165,PA5683,CL5579,true,open
+AP5067,In patient,Check up,false,,,Visited,,2024-02-26 04:56:00.000 -0600,,2024-02-26 08:31:03.151 -0600,false,true,false,CL1165,PA7578,CL5579,false,
+AP5859,In patient,No complain. Dog was present for deworming.,false,,,completed,,2024-03-04 08:20:00.000 -0600,,2024-03-04 08:45:13.058 -0600,false,false,true,CL1165,PA5932,CL5579,false,open
+AP7139,In patient,swollen scrotum,false,,,completed,,2024-02-27 03:00:00.000 -0600,,2024-02-28 07:03:32.693 -0600,false,false,true,CL1165,PA2004,CL3516,true,
+AP7314,Followup Appointment,,false,cage,small,completed,,2024-03-06 05:51:00.000 -0600,,2024-03-06 06:06:29.718 -0600,false,false,true,CL1165,PA2004,CL3516,false,
+AP0260,In patient,Pet is suspected to have eaten rat poison.,false,,,completed,,2024-03-15 02:40:00.000 -0500,,2024-03-15 05:17:24.276 -0500,false,false,true,CL1165,PA2781,CL5579,false,open
+AP2379,In patient,Pet is throwing up,false,,,completed,,2024-02-21 04:30:00.000 -0600,,2024-02-21 05:01:36.941 -0600,false,false,true,CL1165,PA4886,CL3516,true,
+AP7960,In patient,Pet was presented for deworming. Owner has no complaint,false,,,completed,,2024-03-04 03:46:00.000 -0600,,2024-03-05 02:07:11.409 -0600,false,false,true,CL1165,PA3998,CL3516,false,open
+AP1852,In patient,"1st Dhlpp",false,,,Visited,,2024-03-07 07:40:00.000 -0600,,2024-03-07 08:00:06.401 -0600,false,true,false,CL1165,PA7655,CL5579,false,open
+AP1204,In patient,Parvo Virus,false,,,completed,,2024-02-10 06:00:00.000 -0600,,2024-02-14 09:15:57.092 -0600,false,false,true,CL1165,PA6407,CL3516,false,
+AP2017,Followup Appointment,,false,cage,small,completed,,2024-02-28 03:00:00.000 -0600,,2024-02-28 07:12:25.363 -0600,false,false,true,CL1165,PA2004,CL3516,false,
+AP1866,In patient,Follow UP,false,,,completed,,2024-03-07 06:59:00.000 -0600,,2024-03-07 07:58:18.996 -0600,false,false,true,CL1165,PA0316,CL5579,true,open
+AP6374,Out patient,dhlpp shot,false,,,completed,,2024-02-03 09:00:00.000 -0600,,2024-02-21 02:22:58.542 -0600,false,false,true,CL1165,PA0533,CL3516,true,
+AP4817,Out patient,Nil,false,,,completed,,2024-03-11 07:00:00.000 -0500,,2024-03-11 10:47:05.701 -0500,false,false,true,CL1165,PA5095,CL3516,true,open
+AP1785,In patient,Pet Has ticks,false,,,completed,,2024-02-16 06:00:00.000 -0600,,2024-02-16 06:02:38.302 -0600,false,false,true,CL1165,PA4886,CL5579,false,
+AP3917,In patient,"Pet has been dull, not eating and depressed for about 2 weeks",false,,,In Progress,,2024-03-05 10:59:00.000 -0600,,2024-03-06 09:18:50.446 -0600,false,true,false,CL1165,PA7409,CL5579,false,open
+AP4708,In patient,Check up,false,,,completed,,2024-03-11 07:04:00.000 -0500,,2024-03-12 05:08:36.366 -0500,false,false,true,CL1165,PA0052,CL3516,true,open
+AP5149,Out patient,Nil,false,,,completed,,2024-03-11 06:00:00.000 -0500,,2024-03-11 06:20:19.219 -0500,false,false,true,CL1165,PA7177,CL3516,true,open
+AP3567,Out patient,,false,,,completed,,2024-03-09 04:00:00.000 -0600,,2024-03-09 06:13:34.834 -0600,false,false,true,CL1165,PA3146,CL3516,true,open
+AP8142,Out patient,Nil,false,,,completed,,2024-03-11 07:00:00.000 -0500,,2024-03-11 10:45:43.260 -0500,false,false,true,CL1165,PA7825,CL3516,true,open
+AP6146,In patient,Follow up,false,,,completed,,2024-03-12 04:30:00.000 -0500,,2024-03-12 05:12:02.320 -0500,false,false,true,CL1165,PA7673,CL3516,true,open
+AP4004,In patient,Check Up and Dew,false,,,completed,,2024-03-11 06:59:00.000 -0500,,2024-03-11 06:18:29.793 -0500,false,false,true,CL1165,PA7673,CL3516,true,open
+AP4370,In patient,Vaccination,false,,,completed,,2024-03-14 06:16:00.000 -0500,,2024-03-14 06:17:58.411 -0500,false,false,true,CL1165,PA7862,CL3516,true,open
+AP6125,In patient,Follow up,true,Cage,Medium,completed,,2024-03-14 03:30:00.000 -0500,2024-03-18 03:30:00.000 -0500,2024-03-14 09:18:42.547 -0500,false,false,true,CL1165,PA7673,CL3516,false,open
+AP0495,In patient,Owner just bought pet,false,,,In Progress,,2024-02-26 03:51:00.000 -0600,,2024-02-26 08:31:34.552 -0600,false,true,false,CL1165,PA2781,CL5579,false,
+AP9190,In patient,Follow up,false,,,completed,,2024-03-15 03:20:00.000 -0500,,2024-03-15 05:15:54.063 -0500,false,false,true,CL1165,PA7673,CL5579,true,open
+AP8377,In patient,"Pet scratches sometimes.
+Pet is quite picky with food",false,,,completed,,2024-03-12 04:30:00.000 -0500,,2024-03-12 05:15:21.917 -0500,false,false,true,CL1165,PA9398,CL3516,false,open
+AP1025,Out patient,Vaccination,false,,,completed,,2024-03-16 11:00:00.000 -0500,,2024-03-16 11:23:12.657 -0500,false,false,true,CL1165,PA1848,CL3516,true,open
+AP3661,Out patient,Deworming,false,,,completed,,2024-03-16 05:30:00.000 -0500,,2024-03-16 06:43:04.936 -0500,false,false,true,CL1165,PA5598,CL3516,true,open
+AP1643,Out patient,Vaccination,false,,,completed,,2024-03-16 11:00:00.000 -0500,,2024-03-16 11:24:34.957 -0500,false,false,true,CL1165,PA7297,CL3516,true,open
+AP7399,Out patient,For Vaccination,false,,,completed,,2024-03-16 09:00:00.000 -0500,,2024-03-16 09:38:16.836 -0500,false,false,true,CL1165,PA3466,CL3516,true,open
+AP6701,Out patient,Vaccination,false,,,completed,,2024-03-16 11:00:00.000 -0500,,2024-03-16 11:25:56.726 -0500,false,false,true,CL1165,PA2199,CL3516,true,open
+AP1465,Out patient,Nil,false,,,completed,,2024-03-09 10:20:00.000 -0600,,2024-03-11 06:27:54.888 -0500,false,false,true,CL1165,PA1135,CL3516,true,open
+AP1959,Out patient,not eating well,false,,,completed,,2024-03-11 05:00:00.000 -0500,,2024-03-11 05:23:05.303 -0500,false,false,true,CL1165,PA7673,CL3516,true,open
+AP6325,In patient,"2nd DHLPP and Dew",false,,,completed,,2024-03-22 23:30:00.000 -0500,,2024-03-24 08:57:05.464 -0500,false,false,true,CL1165,PA5281,CL3516,true,open
+AP3232,In patient,Patient was brought in for 3rd Dhlpp vaccination,false,,,Visited,,2024-04-06 04:31:00.000 -0500,,2024-04-06 04:41:38.699 -0500,false,true,false,CL1165,PA3466,CL3516,false,open
+AP8086,Out patient,Follow up,false,,,completed,,2024-03-16 05:00:00.000 -0500,,2024-03-16 06:41:39.265 -0500,false,false,true,CL1165,PA7673,CL3516,false,open
+AP4289,In patient,Bottles fell on the pet's head.,false,,,Visited,,2024-03-22 08:00:00.000 -0500,,2024-03-28 06:03:39.766 -0500,false,true,false,CL1165,PA4967,CL5579,false,open
+AP8040,Out patient,Vaccination,false,,,completed,,2024-03-16 11:00:00.000 -0500,,2024-03-16 11:27:01.194 -0500,false,false,true,CL1165,PA1616,CL3516,true,open
+AP8507,In patient,"2 Days boarding",true,Kennel,Medium,completed,,2024-03-23 06:25:00.000 -0500,2024-03-25 04:00:00.000 -0500,2024-03-23 06:40:57.299 -0500,false,false,true,CL1165,PA8153,CL3516,true,open
+AP4148,In patient,Pet was presented for deworming.,false,,,Visited,,2024-03-25 04:50:00.000 -0500,,2024-03-28 05:50:41.463 -0500,false,true,false,CL1165,PA9321,CL3516,false,open
+AP8363,In patient,Pet was presented for Dhlpp,false,,,completed,,2024-03-25 03:55:00.000 -0500,,2024-03-25 04:23:19.442 -0500,false,false,true,CL1165,PA8153,CL3516,false,open
+AP1730,Followup Appointment,"2nd dhlpp and dew ",false,cage,small,upcoming,,2024-03-24 09:00:00.000 -0500,,2024-03-24 09:00:39.357 -0500,false,false,false,CL1165,PA1135,CL5579,false,
+AP0434,In patient,Pet was presented for Vaccination,false,,,Visited,,2024-04-12 08:09:00.000 -0500,,2024-04-15 03:14:34.546 -0500,false,true,false,CL1165,PA1135,CL5579,false,open
+AP3377,In patient,Patient was presented for Deworming,false,,,Visited,,2024-03-28 11:29:00.000 -0500,,2024-03-28 11:44:23.791 -0500,false,true,false,CL1165,PA3501,CL5579,false,open
+AP9702,In patient,Pet was presented for vaccination,false,,,completed,,2024-03-22 10:35:00.000 -0500,,2024-03-22 10:37:00.232 -0500,false,false,true,CL1165,PA1135,CL5579,true,open
+AP3252,In patient,Owner says pet has been with a friend but he suspects the pet has been maltreated and not properly taken care of. Pet refused to eat the food given this morning. He brought the pet in for check up. Pet was suppose to have taken the first shot of Dhlpp on 26/02/24 but was not presented.,false,,,completed,,2024-03-25 03:45:00.000 -0500,,2024-03-25 03:45:05.178 -0500,false,false,true,CL1165,PA1229,CL3516,true,open
+AP5613,In patient,First time consultation,false,,,completed,,2024-04-15 04:51:00.000 -0500,,2024-04-16 03:40:29.569 -0500,false,false,true,CL1165,PA9985,CL3516,true,open
+AP1309,In patient,Owner has no complain. Pet is presented for vaccination,false,,,completed,,2024-03-26 03:47:00.000 -0500,,2024-03-26 04:05:22.131 -0500,false,false,true,CL1165,PA9398,CL3516,true,open
+AP0909,In patient,Pet was presented for vaccination. Owner has no complaint,false,,,completed,,2024-03-22 02:19:00.000 -0500,,2024-03-22 03:00:03.194 -0500,false,false,true,CL1165,PA2781,CL5579,true,open
+AP9160,In patient,Pet has not been eating well and has been unable to work properly for few days,false,,,completed,,2024-03-13 06:05:00.000 -0500,,2024-03-14 06:21:09.138 -0500,false,false,true,CL1165,PA7632,CL3516,false,open
+AP7156,In patient,Pet has a limp,false,,,Visited,,2024-04-02 04:00:00.000 -0500,,2024-04-05 07:10:54.756 -0500,false,true,false,CL1165,PA9895,CL3516,false,open
+AP8647,In patient,Pet was presented for vaccination,false,,,Visited,,2024-04-08 05:45:00.000 -0500,,2024-04-08 07:24:56.684 -0500,false,true,false,CL1165,PA2555,CL3516,false,open
+AP7357,In patient,Pet was presented for deworming,false,,,Visited,,2024-04-03 09:10:00.000 -0500,,2024-04-05 07:10:04.922 -0500,false,true,false,CL1165,PA7825,CL5579,false,open
+AP9964,In patient,"Pet has not been herself after a surgery was done. She's refusing to eat and very lethargic, always keeping to herself",false,,,In Progress,,2024-04-08 04:30:00.000 -0500,,2024-04-08 07:26:29.719 -0500,false,true,false,CL1165,PA9323,CL3516,false,open
+AP4699,In patient,Pet is presented for 3rd Dhlpp,false,,,completed,,2024-03-26 04:46:00.000 -0500,,2024-03-26 04:44:01.157 -0500,false,false,true,CL1165,PA4886,CL3516,true,open
+AP9268,In patient,Pet was presented for vaccination,false,,,Visited,,2024-04-03 08:15:00.000 -0500,,2024-04-05 07:17:29.072 -0500,false,true,false,CL1165,PA3501,CL5579,false,open
+AP9415,In patient,Pregnancy Ultrasound,false,,,completed,,2024-04-10 07:31:00.000 -0500,,2024-04-11 02:34:37.002 -0500,false,false,true,CL1165,PA3338,CL5579,true,open
+AP4377,In patient,Owner just got pet. Pet was presented for check up,false,,,In Progress,,2024-04-08 06:06:00.000 -0500,,2024-04-08 07:36:53.997 -0500,false,true,false,CL1165,PA0881,CL3516,false,open
+AP6669,In patient,Pet was presented for vaccination,false,,,upcoming,,2024-02-05 07:11:00.000 -0600,,2024-04-08 09:29:06.097 -0500,false,false,false,CL1165,PA8284,CL5579,false,open
+AP1779,In patient,Patient was presented for 2nd DHLPP Vaccination,false,,,completed,,2024-04-13 04:10:00.000 -0500,,2024-04-13 04:45:47.516 -0500,false,false,true,CL1165,PA2112,CL3516,true,open
+AP3053,In patient,"1st time visitation for Dew and Dhlpp",false,,,Visited,,2024-03-30 10:10:00.000 -0500,,2024-04-06 04:44:27.468 -0500,false,true,false,CL1165,PA6184,CL3516,false,open
+AP2411,In patient,Pet has allergic dermatitis,false,,,Visited,,2024-04-02 09:18:00.000 -0500,,2024-04-08 09:32:33.711 -0500,false,true,false,CL1165,PA4721,CL5579,false,open
+AP9218,In patient,Follow-up examination,false,,,Visited,,2024-04-09 07:30:00.000 -0500,,2024-04-09 07:55:20.268 -0500,false,true,false,CL1165,PA9323,CL3516,false,open
+AP4180,In patient,Pet was presented for vaccination,false,,,Visited,,2024-04-02 09:08:00.000 -0500,,2024-04-08 09:33:51.504 -0500,false,true,false,CL1165,PA8284,CL5579,false,open
+AP9184,In patient,Follow Up,false,,,completed,,2024-04-10 04:50:00.000 -0500,,2024-04-11 02:33:29.661 -0500,false,false,true,CL1165,PA9323,CL5579,true,open
+AP5831,In patient,Follow up,false,,,completed,,2024-04-12 06:30:00.000 -0500,,2024-04-12 08:35:57.951 -0500,false,false,true,CL1165,PA9323,CL5579,true,open
+AP2978,In patient,Pet is presented for vaccination,false,,,visited,,2024-03-21 08:00:00.000 -0500,,2024-03-27 10:46:48.973 -0500,false,true,false,CL1165,PA7825,CL5579,true,open
+AP2132,Followup Appointment,"2nd dhlpp and dew ",false,cage,small,completed,,2024-12-04 01:00:00.000 -0600,,2024-03-22 10:42:39.286 -0500,false,false,true,CL1165,PA1135,CL5579,false,
+AP4378,In patient,Pet was presented for deworming,false,,,completed,,2024-04-08 09:19:00.000 -0500,,2024-04-08 09:41:39.514 -0500,false,false,true,CL1165,PA3881,CL5579,true,open
+AP5891,In patient,No complain. Pet was presented for vaccination,false,,,In Progress,,2024-04-17 04:35:00.000 -0500,,2024-04-17 08:30:48.821 -0500,false,true,false,CL1165,PA8471,CL3516,false,open
+AP4851,In patient,Pet was presented for nail triming and ARV,false,,,visited,,2024-04-12 07:18:00.000 -0500,,2024-04-12 08:33:17.158 -0500,false,true,false,CL1165,PA3469,CL5579,true,open
+AP5303,In patient,Pet eyes are looking swollen. Pet also has diarrhea.,false,,,Visited,,2024-04-15 09:10:00.000 -0500,,2024-04-16 03:39:38.044 -0500,false,true,false,CL1165,PA5823,CL5579,false,open
+AP0653,In patient,Follow-up,false,,,completed,,2024-04-11 04:50:00.000 -0500,,2024-04-11 04:50:45.689 -0500,false,false,true,CL1165,PA9323,CL3516,true,open
+AP2326,In patient,,false,,,completed,,2024-04-15 04:05:00.000 -0500,,2024-04-15 04:05:45.779 -0500,false,false,true,CL1165,PA2781,CL3516,true,open
+AP6216,In patient,Pet was presented for vaccination,false,,,completed,,2024-04-16 05:09:00.000 -0500,,2024-04-16 05:05:15.217 -0500,false,false,true,CL1165,PA9398,CL3516,true,open
+AP4587,In patient,Pet was presented for ARV.,false,,,completed,,2024-04-16 05:51:00.000 -0500,,2024-04-16 09:23:23.915 -0500,false,false,true,CL1165,PA4886,CL3516,true,open
+AP8257,In patient,Pet is infested with ticks,false,,,Visited,,2024-04-16 05:00:00.000 -0500,,2024-04-17 08:34:32.984 -0500,false,true,false,CL1165,PA3710,CL3516,false,open
+AP3522,In patient,Pet is presented for 2nd Dhlpp,false,,,completed,,2024-04-22 04:51:00.000 -0500,,2024-04-22 04:55:02.430 -0500,false,false,true,CL1165,PA0978,CL3516,true,open
+AP7704,In patient,Pet is presented for 3rd Dhlpp,false,,,completed,,2024-04-22 04:54:00.000 -0500,,2024-04-22 04:56:09.136 -0500,false,false,true,CL1165,PA7825,CL3516,true,open
+AP2709,In patient,Pet has been tying to throw up for about 2 days.,false,,,completed,,2024-04-22 06:20:00.000 -0500,,2024-04-22 06:45:17.720 -0500,false,false,true,CL1165,PA8859,CL3516,false,open
+AP5610,In patient,Pet is presented for checkup,false,,,completed,,2024-04-23 06:15:00.000 -0500,,2024-04-23 06:35:17.034 -0500,false,false,true,CL1165,PA5445,CL3516,true,open
+AP5946,In patient,Owner has no complaint.,false,,,completed,,2024-04-23 04:50:00.000 -0500,,2024-04-23 06:34:20.809 -0500,false,false,true,CL1165,PA9398,CL3516,true,open
+AP0414,In patient,Spine of Rabbit was stepped on.,false,,,visited,,2024-04-07 10:00:00.000 -0500,,2024-04-08 12:30:26.572 -0500,false,true,false,CL1165,PA6580,CL5579,true,open
+AP2358,In patient,Owner complained pet pet coughing. Says another cat in the house has always been coughing but Oliver just started coughing yesterday,false,,,upcoming,,2024-05-17 05:25:00.000 -0500,,2024-05-17 07:58:43.884 -0500,false,false,false,CL1165,PA6530,,false,open
+AP2202,In patient,Patient was brought in for Deworming.,false,,,Visited,,2024-04-21 11:00:00.000 -0500,,2024-04-24 10:54:43.905 -0500,false,true,false,CL1165,PA0867,CL3516,false,open
+AP1432,In patient,Pet is presented for dhlpp vaccination,false,,,completed,,2024-05-07 07:00:00.000 -0500,,2024-05-07 07:35:41.231 -0500,false,false,true,CL1165,PA2936,CL5579,false,open
+AP5525,In patient,Patient was brought in with a case of Bloody Urine.,false,,,Visited,,2024-04-20 06:40:00.000 -0500,,2024-04-24 10:55:53.867 -0500,false,true,false,CL1165,PA6169,CL3516,false,open
+AP1475,In patient,Pet is presented for vaccination and dew,false,,,In Progress,,2024-05-07 07:29:00.000 -0500,,2024-05-07 08:04:22.040 -0500,false,true,false,CL1165,PA2493,CL5579,false,open
+AP0341,In patient,Follow Up,false,,,Visited,,2024-05-14 10:41:00.000 -0500,,2024-05-14 11:03:15.354 -0500,false,true,false,CL1165,PA2004,CL5579,false,open
+AP1750,In patient,,false,,,Visited,,2024-05-10 07:00:00.000 -0500,,2024-05-13 05:26:17.390 -0500,false,true,false,CL1165,PA7444,CL5579,false,open
+AP1751,In patient,Pet is presented for vaccination,false,,,completed,,2024-04-26 03:30:00.000 -0500,,2024-04-26 03:31:36.315 -0500,false,false,true,CL1165,PA9985,CL3516,true,open
+AP7962,In patient,Patient was presented for deworming and nail trimming,false,,,Visited,,2024-05-09 08:05:00.000 -0500,,2024-05-13 05:23:01.937 -0500,false,true,false,CL1165,PA3342,CL5579,false,open
+AP6898,In patient,Piroplasmosis and systemic bacteria infection,false,,,Visited,,2024-04-25 07:00:00.000 -0500,,2024-04-26 07:27:16.581 -0500,false,true,false,CL1165,PA4756,CL3516,false,open
+AP9399,In patient,Owner wants to confirm if pet is pregnant. Pet also has a growth on the chest,false,,,Visited,,2024-05-02 05:25:00.000 -0500,,2024-05-02 06:05:19.721 -0500,false,true,false,CL1165,PA1141,CL5579,false,open
+AP8708,In patient,Patient was Brought in for Deworming and first time visit,false,,,Visited,,2024-04-27 05:30:00.000 -0500,,2024-04-27 05:39:04.920 -0500,false,true,false,CL1165,PA7576,CL3516,false,open
+AP4845,In patient,Bloody Urine and DEworming,false,,,upcoming,,2024-04-05 07:26:00.000 -0500,,2024-05-04 11:10:46.041 -0500,false,false,false,CL1165,PA2590,CL5579,false,open
+AP9347,In patient,patient was brought in for a follow up examination,false,,,Visited,,2024-04-27 06:35:00.000 -0500,,2024-04-27 07:52:32.101 -0500,false,true,false,CL1165,PA8859,CL3516,false,open
+AP4537,In patient,Patient was brought in for first time visit,false,,,Visited,,2024-04-27 10:20:00.000 -0500,,2024-04-27 10:48:28.367 -0500,false,true,false,CL1165,PA4673,CL3516,false,open
+AP1217,In patient,Owner cut one of the nails to the quick and it bled. It stopped. Pet started nibbing on the spot. It looks infected now,false,,,In Progress,,2024-04-24 09:00:00.000 -0500,,2024-04-24 09:04:18.989 -0500,false,true,false,CL1165,PA4756,CL3516,false,open
+AP7425,"50/50 Treatment of Parvoviral Enteritis",Conduct Parvo test and start treatment.,false,,,completed,,2024-05-04 10:00:00.000 -0500,,2024-05-13 10:30:57.600 -0500,false,false,true,CL0891,PA5569,,false,open
+AP5631,In patient,patient was presented for a follow up examination,false,,,Visited,,2024-04-28 10:30:00.000 -0500,,2024-04-28 10:39:46.071 -0500,false,true,false,CL1165,PA4756,CL3516,false,open
+AP0489,In patient,Bloody Urine and Deworming,false,,,Visited,,2024-04-05 07:24:00.000 -0500,,2024-05-04 11:15:41.631 -0500,false,true,false,CL1165,PA2590,CL5579,false,open
+AP6433,In patient,"Pet is presented for ARV, grooming and tick treatment",false,,,Visited,,2024-04-29 07:14:00.000 -0500,,2024-04-29 08:15:18.679 -0500,false,true,false,CL1165,PA1548,CL3516,false,open
+AP1663,In patient,Patient was presented for registration and check up,false,,,Visited,,2024-05-09 07:10:00.000 -0500,,2024-05-13 05:25:38.927 -0500,false,true,false,CL1165,PA5634,CL5579,false,open
+AP6826,In patient,Confirmed case of UTI,false,,,Visited,,2024-05-05 09:09:00.000 -0500,,2024-05-06 10:54:29.443 -0500,false,true,false,CL1165,PA0867,CL5579,false,open
+AP6715,In patient,"Complaint of General weakness, weight loss, anorexia and a swollen left hind limb.",false,,,Visited,,2024-05-13 11:00:00.000 -0500,,2024-05-13 13:00:13.604 -0500,false,true,false,CL1165,PA2004,CL5579,false,open
+AP2683,In patient,Patient was brought in for Deworming,false,,,Visited,,2024-05-04 05:30:00.000 -0500,,2024-05-06 11:03:21.331 -0500,false,true,false,CL1165,PA2590,CL5579,false,open
+AP4147,In patient,Patient was presented for deworming and check up,false,,,Visited,,2024-05-09 05:35:00.000 -0500,,2024-05-13 05:21:21.376 -0500,false,true,false,CL1165,PA8053,CL5579,false,open
+AP8943,In patient,Patient was presented with Mange infestation and poor appetite,false,,,upcoming,,2024-05-18 04:00:00.000 -0500,,2024-05-19 11:59:58.666 -0500,false,false,false,CL1165,PA6590,,false,open
+AP0478,In patient,Patient was presented as first time visit for DHLPP and Deworming.,false,,,upcoming,,2024-05-18 05:00:00.000 -0500,,2024-05-19 12:01:30.444 -0500,false,false,false,CL1165,PA4583,,false,open
+AP7258,In patient,"1st DHLPP vaccination",false,,,canceled,error,2024-05-14 09:59:00.000 -0500,,2024-05-14 09:58:04.624 -0500,true,false,false,CL1165,PA2505,CL5579,false,open
+AP4687,In patient,Owner complained of pet having anorexia since after she littered.,false,,,Visited,,2024-05-13 05:40:00.000 -0500,,2024-05-13 06:08:55.594 -0500,false,true,false,CL1165,PA0111,CL5579,false,open
+AP0676,In patient,Pet was presented for vaccination,false,,,completed,,2024-04-29 08:14:00.000 -0500,,2024-04-29 08:14:17.306 -0500,false,false,true,CL1165,PA7862,CL5579,true,open
+AP7911,In patient,Owner says pet is always scratching.,false,,,In Progress,,2024-04-30 06:00:00.000 -0500,,2024-04-30 07:31:25.462 -0500,false,true,false,CL1165,PA3737,CL5579,true,open
+AP5314,In patient,Reg and dew,false,,,upcoming,,2024-05-13 08:10:00.000 -0500,,2024-05-14 11:04:00.250 -0500,false,false,false,CL1165,PA3722,CL5579,false,open
+AP9307,In patient,Pet has a cough,false,,,In Progress,,2024-05-17 08:09:00.000 -0500,,2024-05-20 06:45:14.364 -0500,false,true,false,CL1165,PA6530,CL3516,false,open
+AP5798,In patient,"1st DHLPP vaccination",false,,,Visited,,2024-05-14 09:59:00.000 -0500,,2024-05-14 10:01:41.482 -0500,false,true,false,CL1165,PA2505,CL5579,false,open
+AP4538,In patient,Owner complained of inappetence of her pet. Noted this started two days ago,false,,,canceled,"",2024-05-15 05:00:00.000 -0500,,2024-05-17 07:24:31.752 -0500,true,false,false,CL1165,PA6590,CL3516,false,open
+AP4241,General Visit,nil,false,,,Visited,,2024-05-22 03:00:00.000 -0500,,2024-05-22 04:55:24.725 -0500,false,false,false,CL4729,PA6056,CL8561,false,
+AP6828,Treatment,New treatment appointment,false,,,upcoming,,2024-05-22 04:00:00.000 -0500,,2024-05-21 14:30:27.390 -0500,false,false,false,CL4729,PA7905,CL8561,false,open
+AP3017,In patient,Pet is presented for ARV and TT vaccination,false,,,Visited,,2024-05-15 08:05:00.000 -0500,,2024-05-17 07:57:13.522 -0500,false,true,false,CL1165,PA5634,CL3516,false,open
+AP0738,In patient,Patient was presented with Mange infestation and Poor appetite,false,,,upcoming,,2024-05-18 04:00:00.000 -0500,,2024-05-20 07:11:06.460 -0500,false,false,false,CL1165,PA6590,,false,open
+AP4122,In patient,Patient was presented as first time visit for DHLPP vaccination,false,,,In Progress,,2024-05-15 11:00:00.000 -0500,,2024-05-19 11:57:26.934 -0500,false,true,false,CL1165,PA5636,CL5579,false,open
+AP2047,Surgery,Tail Docking,false,,,upcoming,,2024-05-28 02:00:00.000 -0500,,2024-05-13 10:26:53.729 -0500,false,false,false,CL0891,PA5156,,false,open
+AP8821,General Visit,This is a test appointment,false,,,canceled,"",2024-05-27 03:30:00.000 -0500,,2024-05-21 10:13:14.752 -0500,true,false,false,CL4729,PA7905,CL6066,false,open
+AP4601,General Visit,nil,false,,,upcoming,,2024-05-22 03:00:00.000 -0500,,2024-05-22 06:08:10.946 -0500,false,false,false,CL4729,PA6056,CL1764,false,open
+AP8005,Routine Vaccination,,false,,,completed,,2024-05-22 08:30:00.000 -0500,,2024-05-22 08:25:50.332 -0500,false,false,true,CL0891,PA8258,CL4545,false,open
+AP2294,Routine Deworming,,false,,,canceled,Not in Town,2024-05-20 06:00:00.000 -0500,,2024-05-22 08:27:34.462 -0500,true,false,false,CL0891,PA0028,CL4545,false,open
+AP7938,Vaccination/Deworming,"3rd dose",false,Regular,Size 2,completed,,2024-05-22 06:00:00.000 -0500,2024-05-22 09:00:00.000 -0500,2024-05-22 06:29:08.785 -0500,false,false,true,CL0891,PA5156,CL4545,false,open
+AP1368,In patient,Pet is presented for deworming and nail clipping,false,,,In Progress,,2024-05-23 04:44:00.000 -0500,,2024-05-23 04:45:08.113 -0500,false,true,false,CL1165,PA9398,CL3516,true,open
+AP1512,In patient,Owner complained of inappetence of her pet. Noted this started two days ago,false,,,visited,,2024-05-15 05:00:00.000 -0500,,2024-05-17 07:24:36.429 -0500,false,true,false,CL1165,PA6590,CL3516,true,open
+AP1351,General Visit,nil,false,,,canceled,"",2024-05-22 03:00:00.000 -0500,,2024-05-22 04:57:53.415 -0500,true,false,false,CL4729,PA6056,CL1764,false,
+AP7486,In patient,First time visit immune booster and Deworming,false,,,Visited,,2024-05-18 05:00:00.000 -0500,,2024-05-20 07:09:14.474 -0500,false,true,false,CL1165,PA4583,CL5579,false,open
+AP5399,General Visit,to come for general visit,false,,,canceled,"",2024-07-20 10:09:00.000 -0500,,2024-07-06 06:53:22.197 -0500,true,true,false,CL4729,PA0274,CL6066,false,open
+AP0664,General Visit,snsns,false,,,canceled,"",2024-05-29 03:00:00.000 -0500,,2024-05-30 08:17:22.010 -0500,true,false,false,CL4729,PA7905,CL1764,false,open
+AP5331,In patient,First time visit and Deworming,false,,,In Progress,,2024-05-25 05:59:00.000 -0500,,2024-05-25 07:09:17.772 -0500,false,true,false,CL1165,PA3895,CL5579,false,open
+AP7518,In patient,Patient was presented with mange infestation and poor appetite,false,,,In Progress,,2024-05-18 04:18:00.000 -0500,,2024-05-25 07:25:43.395 -0500,false,true,false,CL1165,PA6590,CL5579,false,open
+AP5538,In patient,Pet has not been eating well,false,,,upcoming,,2024-05-27 10:11:00.000 -0500,,2024-05-28 04:15:19.150 -0500,false,false,false,CL1165,PA1396,CL5579,false,open
+AP3589,General Visit,his,false,,,completed,,2024-06-17 18:00:00.000 -0500,,2024-06-18 03:58:10.495 -0500,false,false,true,CL4729,PA0590,CL8605,false,
+AP2362,Boarding,,false,,,completed,,2024-07-11 08:00:00.000 -0500,,2024-07-09 11:04:19.736 -0500,false,false,true,CL4729,PA0322,CL6573,false,open
+AP9719,In patient,For normal boarding,true,Cage,Small,upcoming,,2024-05-06 07:10:00.000 -0500,2024-07-09 18:00:00.000 -0500,2024-06-04 08:51:49.504 -0500,false,false,false,CL1165,PA0446,CL3516,false,open
+AP3402,In patient,Pet is presented for dhlpp vaccination,false,,,visited,,2024-06-11 07:23:00.000 -0500,,2024-06-11 07:32:29.960 -0500,false,true,false,CL1165,PA7576,CL3516,true,open
+AP4247,Treatment,,false,,,Visited,,2024-08-14 04:00:00.000 -0500,,2024-08-14 07:11:05.990 -0500,false,true,false,CL4729,PA6425,CL1764,false,open
+AP9476,In patient,"Patient was presented with excessive drooling, itch skin and tick infestation.",false,,,In Progress,,2024-05-26 09:30:00.000 -0500,,2024-05-28 06:29:41.551 -0500,false,true,false,CL1165,PA9296,CL5579,false,open
+AP8744,In patient,Patient was presented for Deworming and Hematinic,false,,,In Progress,,2024-08-07 04:49:00.000 -0500,,2024-08-07 08:24:03.104 -0500,false,true,false,CL1165,PA4886,CL3516,false,open
+AP2148,General Visit,,false,,,Visited,,2024-07-10 18:00:00.000 -0500,,2024-07-02 06:58:04.052 -0500,false,true,false,CL4729,PA0590,CL8605,false,open
+AP7444,In patient,Pet is presented for vaccination and dew,false,,,canceled,"",2024-06-12 04:19:00.000 -0500,,2024-06-12 04:44:06.527 -0500,true,false,false,CL1165,PA5445,CL3516,false,open
+AP4948,In patient,Pet is having difficultly pooping for about 3 days now,false,,,visited,,2024-06-07 05:30:00.000 -0500,,2024-06-07 06:10:20.568 -0500,false,true,false,CL1165,PA9417,CL3516,true,open
+AP3818,Treatment,Came for Otitis treatment,false,,,completed,,2024-06-17 10:00:00.000 -0500,,2024-06-17 08:59:40.688 -0500,false,false,true,CL4729,PA6425,CL6066,false,open
+AP6809,Vaccination,,false,,,completed,,2024-06-20 08:30:00.000 -0500,,2024-06-18 05:03:52.370 -0500,false,false,true,CL4729,PA9502,CL6573,false,open
+AP7286,In patient,Patient was presented for a follow up examination,false,,,In Progress,,2024-08-19 08:00:00.000 -0500,,2024-08-19 12:22:33.006 -0500,false,true,false,CL1165,PA2555,CL4502,true,open
+AP6659,Treatment,Came for Otitis treatment,false,,,In Progress,,2024-06-16 19:00:00.000 -0500,,2024-06-17 09:00:09.437 -0500,false,true,false,CL4729,PA6425,CL6066,false,open
+AP3176,Vaccination,Came for vaccination (ARV  and DHLPP),false,,,Visited,,2024-06-18 07:00:00.000 -0500,,2024-06-18 08:17:13.079 -0500,false,true,true,CL4840,PA9253,CL2765,false,open
+AP0263,On Treatment,Pet is presented for treatment at the Clinic because of some underlying conditions,true,Concrete Kennel,Large,Visited,,2024-06-18 06:00:00.000 -0500,2024-06-19 06:00:00.000 -0500,2024-06-18 08:31:33.435 -0500,false,true,false,CL4840,PA1945,CL2562,false,open
+AP3862,In patient,Patient was presented cause of excessive diarrhea with little blood stain,false,,,visited,,2024-08-15 13:00:00.000 -0500,,2024-08-15 13:30:07.211 -0500,false,true,false,CL1165,PA2505,CL4502,true,open
+AP3992,Vaccination,vaccination,false,,,upcoming,,2024-07-08 19:00:00.000 -0500,,2024-07-08 10:37:58.807 -0500,false,false,false,CL4674,PA0834,,false,
+AP8404,In patient,Pet is presented for vaccination and dew,false,,,In Progress,,2024-06-12 04:19:00.000 -0500,,2024-06-12 04:44:06.883 -0500,false,true,false,CL1165,PA5445,CL3516,true,open
+AP6411,In patient,Patient was presented as a first time visitor,false,,,completed,,2024-08-17 06:10:00.000 -0500,,2024-08-17 06:19:45.417 -0500,false,false,true,CL1165,PA0233,CL4502,false,open
+AP0955,Boarding,,true,Kennel,Regular,Visited,,2024-05-29 06:00:00.000 -0500,2024-05-30 06:00:00.000 -0500,2024-05-25 13:14:43.219 -0500,false,true,false,CL4729,PA9562,CL1764,false,open
+AP4420,General Visit,No desc,false,,,canceled,no reason,2024-08-08 08:00:00.000 -0500,,2024-08-07 04:49:25.360 -0500,true,false,false,CL4729,PA9562,CL8605,false,open
+AP8870,In patient,Patient was presented for general check-up and deworming,false,,,visited,,2024-08-15 07:35:00.000 -0500,,2024-08-15 09:26:33.700 -0500,false,true,false,CL1165,PA3713,CL4502,true,open
+AP8787,In patient,Patient was presented with skin rash on body,false,,,visited,,2024-08-15 05:30:00.000 -0500,,2024-08-15 08:43:23.729 -0500,false,true,false,CL1165,PA2555,CL3516,true,open
+AP0527,In patient,Skin rash follow up treatment,false,,,completed,,2024-08-17 05:00:00.000 -0500,,2024-08-17 06:36:55.375 -0500,false,false,true,CL1165,PA2555,CL4502,false,open
+AP7359,General Visit,desc,false,,,Visited,,2024-08-08 06:00:00.000 -0500,,2024-08-07 05:06:34.068 -0500,false,true,false,CL4729,PA9562,CL8605,false,open
+AP4830,In patient,Patient was presented for general check-up,false,,,visited,,2024-08-16 05:13:00.000 -0500,,2024-08-16 09:08:54.527 -0500,false,true,false,CL1165,PA4350,CL3516,true,open
+AP0254,In patient,Patient was presented for Deworming,false,,,Visited,,2024-08-15 04:30:00.000 -0500,,2024-08-20 09:25:04.982 -0500,false,true,false,CL1165,PA3713,CL3516,false,open
+AP4545,Vaccination,write description,false,,,Visited,,2024-08-08 06:00:00.000 -0500,,2024-08-07 05:04:53.066 -0500,false,true,false,CL4729,PA0274,CL8605,false,open
+AP3933,In patient,Patient was presented for DHLPP and Dew,false,,,completed,,2024-08-07 08:31:00.000 -0500,,2024-08-20 09:50:39.718 -0500,false,false,true,CL1165,PA8952,CL4502,true,open
+AP6113,In patient,Patient was presented with DHLPP and Dew,false,,,visited,,2024-08-06 09:11:00.000 -0500,,2024-08-20 10:06:12.902 -0500,false,true,false,CL1165,PA8119,CL4502,true,open
+AP8505,In patient,Patient was presented with body weakness and diarrhea with traces of blood,false,,,visited,,2024-08-19 03:20:00.000 -0500,,2024-08-19 11:15:25.046 -0500,false,true,false,CL1165,PA5910,CL3516,true,open
+AP1861,In patient,Patient was presented for follow-up treatment,false,,,canceled,"",2024-08-20 04:29:00.000 -0500,,2024-08-20 05:50:04.278 -0500,true,true,false,CL1165,PA7936,CL3516,false,open
+AP4916,In patient,patient was presented for follow-up treatment,false,,,Visited,,2024-08-20 04:36:00.000 -0500,,2024-08-20 05:58:12.040 -0500,false,true,false,CL1165,PA7936,CL3516,false,open
+AP3761,In patient,patient was presented with a blood shot-bulging eye,false,,,visited,,2024-08-19 04:15:00.000 -0500,,2024-08-19 11:20:58.511 -0500,false,true,false,CL1165,PA2503,CL3516,true,open
+AP6597,In patient,Patient was brought in for the 3rd shot of DHLPP and 1st shot of Anti-Rabies vaccination,false,,,completed,,2024-08-19 06:41:00.000 -0500,,2024-08-19 12:16:08.505 -0500,false,false,true,CL1165,PA2692,CL4502,false,open
+AP4336,In patient,patient was presented for general body check-up,false,,,visited,,2024-08-19 07:45:00.000 -0500,,2024-08-19 11:25:51.209 -0500,false,true,false,CL1165,PA0470,CL3516,true,open
+AP6869,In patient,Patient was presented for progesterone and vaginal cytology test,false,,,visited,,2024-08-15 05:55:00.000 -0500,,2024-08-15 09:37:55.038 -0500,false,true,false,CL1165,PA0858,CL3516,true,open
+AP3170,In patient,Patient was presented with an obstruction in the throat,false,,,completed,,2024-08-21 05:45:00.000 -0500,,2024-08-21 06:13:36.724 -0500,false,false,true,CL1165,PA9407,CL3516,true,open
+AP9809,In patient,Follow up treatment,false,,,completed,,2024-08-17 04:51:00.000 -0500,,2024-08-17 06:30:09.586 -0500,false,false,true,CL1165,PA5554,CL4502,false,open
+AP8575,Vaccination,,false,,,In Progress,,2024-07-23 08:31:00.000 -0500,,2024-07-22 06:40:11.001 -0500,false,true,false,CL4729,PA3839,CL8561,false,open
+AP6394,In patient,patient was presented for follow-up treatment,false,,,visited,,2024-08-20 05:10:00.000 -0500,,2024-08-20 06:04:46.243 -0500,false,true,false,CL1165,PA2503,CL3516,true,open
+AP9353,In patient,Patient was brought in with organophosphate poisoning,false,,,In Progress,,2024-08-19 11:35:00.000 -0500,,2024-08-19 12:10:01.305 -0500,false,true,false,CL1165,PA7936,CL4502,true,open
+AP2893,Deworming,to be presented for deworming,false,,,Visited,,2024-07-18 08:00:00.000 -0500,,2024-06-18 08:23:38.138 -0500,false,true,false,CL4840,PA9253,CL2562,false,open
+AP4437,In patient,patient was presented for vomitting the last food consumed several hours after eating,false,,,visited,,2024-08-28 04:07:00.000 -0500,,2024-08-28 04:08:30.608 -0500,false,true,false,CL1165,PA3713,CL3516,true,open
+AP8154,In patient,Patient was presented for Anti-rabies vaccination.,false,,,completed,,2024-09-04 06:30:00.000 -0500,,2024-09-04 06:33:51.620 -0500,false,false,true,CL1165,PA7825,CL4502,true,open
+AP3676,In patient,Patient was presented for follow-up treatment,false,,,completed,,2024-08-21 06:30:00.000 -0500,,2024-08-21 06:57:59.382 -0500,false,false,true,CL1165,PA2503,CL4502,false,open
+AP4951,In patient,Patient was presented with itchy skin.,false,,,completed,,2024-09-02 07:15:00.000 -0500,,2024-09-02 07:15:33.466 -0500,false,false,true,CL1165,PA1247,CL4502,false,open
+AP0277,In patient,Patient was presented for DHLPP vaccination,false,,,completed,,2024-08-22 06:45:00.000 -0500,,2024-08-22 06:49:53.544 -0500,false,false,true,CL1165,PA3713,CL4502,true,open
+AP0917,In patient,Patient was brought in for Anti-rabies and Deworming,false,,,completed,,2024-08-28 07:04:00.000 -0500,,2024-08-28 07:15:40.476 -0500,false,false,true,CL1165,PA7825,CL4502,true,open
+AP1700,In patient,patient was presented for deworming and shampoo bathing,false,,,completed,,2024-08-29 08:09:00.000 -0500,,2024-08-29 08:08:55.388 -0500,false,false,true,CL1165,PA3505,CL4502,true,open
+AP1822,In patient,Patient was brought in as a first time visit for Deworming and Anti-rabies.,false,,,completed,,2024-08-31 04:40:00.000 -0500,,2024-08-31 04:41:24.241 -0500,false,false,true,CL1165,PA4512,CL4502,true,open
+AP3417,In patient,Patient was brought in for Antirabies and Deworming,false,,,completed,,2024-08-28 07:00:00.000 -0500,,2024-08-28 07:14:00.310 -0500,false,false,true,CL1165,PA6222,CL4502,true,open
+AP6463,In patient,Patient was brought in for treatment after test result came out.,false,,,completed,,2024-08-31 03:00:00.000 -0500,,2024-08-31 03:05:16.743 -0500,false,false,true,CL1165,PA9028,CL4502,true,open
+AP1381,In patient,Patient was presented for follow-up treatment,false,,,completed,,2024-09-01 08:30:00.000 -0500,,2024-09-01 09:04:30.937 -0500,false,false,true,CL1165,PA9028,CL4502,false,open
+AP9239,In patient,Patient was brought in as a first time visit for Deworming and other necessities.,false,,,visited,,2024-09-02 06:31:00.000 -0500,,2024-09-02 06:48:25.592 -0500,false,true,false,CL1165,PA3128,CL4502,true,open
+AP8055,In patient,patient was presented for routine vaccination,false,,,completed,,2024-08-22 05:00:00.000 -0500,,2024-08-22 05:22:41.572 -0500,false,false,true,CL1165,PA7223,CL3516,true,open
+AP4478,In patient,Patient was presented for check up,false,,,completed,,2024-08-21 18:55:00.000 -0500,,2024-08-22 06:54:31.855 -0500,false,false,true,CL1165,PA7578,CL4502,false,open
+AP9209,In patient,Patient was presented due to disccharge in left eye,false,,,completed,,2024-08-26 11:00:00.000 -0500,,2024-08-26 11:03:16.262 -0500,false,false,true,CL1165,PA3168,CL4502,true,open
+AP3071,In patient,Patient was presented as first time visit for dew and checkup,false,,,completed,,2024-09-02 09:30:00.000 -0500,,2024-09-02 09:46:30.410 -0500,false,false,true,CL1165,PA1641,CL4502,true,open
+AP1020,In patient,Patient was presented for Anti-rabies vaccination,false,,,completed,,2024-08-20 11:00:00.000 -0500,,2024-08-21 06:53:28.946 -0500,false,false,true,CL1165,PA2505,CL4502,false,open
+AP6333,In patient,,false,,,upcoming,,2025-09-08 07:00:00.000 -0500,,2024-09-07 08:05:30.538 -0500,false,false,false,CL1165,PA6045,,false,open
+AP0236,General Visit,For Deworming,false,,,In Progress,,2024-09-04 06:00:00.000 -0500,,2024-09-04 04:45:33.374 -0500,false,true,false,CL4729,PA0274,CL6573,false,open
+AP9507,In patient,Patient was presented for DHLPP vaccination and nail trimming,false,,,completed,,2024-08-28 06:30:00.000 -0500,,2024-08-28 13:03:49.666 -0500,false,false,true,CL1165,PA3272,CL4502,true,open
+AP3900,In patient,patient was presented with a bloated tummy,false,,,completed,,2024-08-28 10:00:00.000 -0500,,2024-08-28 10:02:20.787 -0500,false,false,true,CL1165,PA5813,CL4502,true,open
+AP6071,In patient,patient was presented for re-occuring UTI,false,,,completed,,2024-08-21 10:00:00.000 -0500,,2024-08-21 10:09:43.185 -0500,false,false,true,CL1165,PA8342,CL4502,true,open
+AP1391,In patient,Patient was presented with lack of appetite and smelly mouth,false,,,visited,,2024-08-29 12:00:00.000 -0500,,2024-08-31 02:42:14.684 -0500,false,true,false,CL1165,PA9028,CL4502,true,open
+AP3444,In patient,Follow-up treatment,false,,,completed,,2024-08-22 04:00:00.000 -0500,,2024-08-22 05:26:30.443 -0500,false,false,true,CL1165,PA8342,CL3516,true,open
+AP5358,In patient,Patient was presented for a follow up treatment,false,,,completed,,2024-08-23 18:00:00.000 -0500,,2024-08-24 11:26:14.152 -0500,false,false,true,CL1165,PA8342,CL4502,true,open
+AP7515,In patient,Patient was presented with lack of appetite and smelly mouth.,false,,,canceled,"",2024-08-31 12:00:00.000 -0500,,2024-08-31 02:39:25.007 -0500,true,true,false,CL1165,PA9028,CL4502,false,open
+AP8917,In patient,Patient was presented with itchy skin.,false,,,completed,,2024-09-02 07:18:00.000 -0500,,2024-09-02 07:17:03.875 -0500,false,false,true,CL1165,PA5193,CL4502,true,open
+AP2072,In patient,patient was presented for deworming and nail trimming,false,,,upcoming,,2024-03-09 03:15:00.000 -0600,,2024-09-04 06:16:18.525 -0500,false,false,false,CL1165,PA7796,CL3516,false,open
+AP6705,In patient,patient was presented for deworming and nail trimming.,false,,,upcoming,,2024-03-09 03:15:00.000 -0600,,2024-09-04 06:21:35.667 -0500,false,false,false,CL1165,PA7796,CL3516,false,open
+AP0546,In patient,Patient was presented cause of vomiting and lack of appetite,false,,,completed,,2024-08-28 09:46:00.000 -0500,,2024-08-28 09:46:21.738 -0500,false,false,true,CL1165,PA1247,CL4502,true,open
+AP7658,Deworming,,false,,,completed,,2024-09-05 04:00:00.000 -0500,,2024-09-04 09:08:15.125 -0500,false,false,true,CL5548,PA0065,CL2967,false,open
+AP8719,In patient,patient was presented for malnourishment,false,,,Visited,,2024-03-09 04:30:00.000 -0600,,2024-09-04 06:24:46.722 -0500,false,true,false,CL1165,PA0301,CL3516,false,open
+AP7037,In patient,patient was presented for deworming and nail trimming,false,,,upcoming,,2024-03-09 03:26:00.000 -0600,,2024-09-04 06:29:08.538 -0500,false,false,false,CL1165,PA7796,CL3516,false,open
+AP8794,Vaccination,,false,,,upcoming,,2024-09-03 22:00:00.000 -0500,,2024-09-04 09:13:47.316 -0500,false,false,false,CL5548,PA0065,CL3283,false,open
+AP3427,In patient,Patient was presented for Anti-rabies vaccination.,false,,,completed,,2024-09-04 06:35:00.000 -0500,,2024-09-04 06:35:12.713 -0500,false,false,true,CL1165,PA0978,CL4502,true,open
+AP2492,In patient,Patient was presented for Anti rabies and nail trimming,false,,,completed,,2024-08-28 08:25:00.000 -0500,,2024-08-28 08:29:03.113 -0500,false,false,true,CL1165,PA3075,CL4502,true,open
+AP5256,In patient,Patient was presented cause of vomiting and lack of appetite,false,,,completed,,2024-08-28 09:40:00.000 -0500,,2024-08-28 09:44:58.477 -0500,false,false,true,CL1165,PA5193,CL4502,true,open
+AP0806,In patient,patient was presented for routine vaccination,false,,,visited,,2024-08-27 04:53:00.000 -0500,,2024-08-27 04:53:17.484 -0500,false,true,false,CL1165,PA8119,CL3516,true,open
+AP0709,In patient,Patient was brought in as a first time visit for vaccination,false,,,completed,,2024-09-07 08:59:00.000 -0500,,2024-09-07 08:02:26.563 -0500,false,false,true,CL1165,PA2948,CL4502,true,open
+AP9659,In patient,Patient was presented for DHLPP vaccination,false,,,completed,,2024-09-07 10:32:00.000 -0500,,2024-09-07 10:27:13.391 -0500,false,false,true,CL1165,PA1641,CL4502,true,open
+AP1770,Treatment,pet needs treatment,false,,,upcoming,,2024-09-18 02:00:00.000 -0500,,2024-09-04 04:58:29.774 -0500,false,false,false,CL4729,PA6257,CL6066,false,open
+AP4084,In patient,Patient was presented for DHLPP vaccination,false,,,Visited,,2024-09-06 10:00:00.000 -0500,,2024-09-09 04:40:46.175 -0500,false,true,false,CL1165,PA0470,CL3516,false,open
+AP0491,In patient,Patient was brought in with stiff hind leg and constant vomiting,false,,,completed,,2024-08-24 03:01:00.000 -0500,,2024-08-24 03:05:54.116 -0500,false,false,true,CL1165,PA2004,CL4502,true,open
+AP6727,Deworming,,false,,,upcoming,,2024-10-06 04:00:00.000 -0500,,2024-09-09 11:46:16.175 -0500,false,false,false,CL5548,PA1583,CL2967,false,open
+AP7356,In patient,Patient was presented for ARV and deworming,false,,,In Progress,,2024-09-06 10:30:00.000 -0500,,2024-09-09 05:34:18.306 -0500,false,true,false,CL1165,PA1181,CL3516,false,open
+AP3771,Deworming,,false,,,upcoming,,2024-10-06 04:00:00.000 -0500,,2024-09-09 11:47:07.343 -0500,false,false,false,CL5548,PA8458,CL0772,false,open
+AP0983,Vaccination,DHLPP,false,,,canceled,Pet unavailable,2024-09-09 05:00:00.000 -0500,,2024-09-04 04:41:43.273 -0500,true,false,false,CL4729,PA6425,CL1764,false,open
+AP0177,In patient,Patient was brought in as a first time visit,false,,,completed,,2024-09-07 08:05:00.000 -0500,,2024-09-07 08:04:44.804 -0500,false,false,true,CL1165,PA8455,CL4502,true,open
+AP1926,Deworming,,false,,,upcoming,,2024-10-07 04:00:00.000 -0500,,2024-09-09 11:53:31.884 -0500,false,false,false,CL5548,PA7982,CL2967,false,open
+AP5696,In patient,Patient was presented cause of lack of appetite,false,,,completed,,2024-09-14 09:30:00.000 -0500,,2024-09-16 11:24:18.949 -0500,false,false,true,CL1165,PA9225,CL4502,true,open
+AP5329,In patient,Patient was presented for DHLPP vaccination,false,,,visited,,2024-09-12 04:25:00.000 -0500,,2024-09-12 04:25:34.732 -0500,false,true,false,CL1165,PA3713,CL3516,true,open
+AP0321,In patient,Patient was presented for follow up examination,false,,,completed,,2024-09-14 12:40:00.000 -0500,,2024-09-16 08:27:08.299 -0500,false,false,true,CL1165,PA4357,CL4502,false,open
+AP2005,In patient,Patient was presented cause of furs removing on its own,false,,,completed,,2024-09-14 10:29:00.000 -0500,,2024-09-14 10:30:18.749 -0500,false,false,true,CL1165,PA2781,CL4502,false,open
+AP4419,In patient,Patient was brought in as a first time visit,false,,,completed,,2024-09-07 08:10:00.000 -0500,,2024-09-07 08:31:43.582 -0500,false,false,true,CL1165,PA7168,CL4502,true,open
+AP4975,In patient,,false,,,canceled,"",2025-09-10 05:31:00.000 -0500,,2024-09-10 05:31:33.121 -0500,true,true,false,CL1165,PA2493,CL3516,false,open
+AP0257,In patient,ultrasound,false,,,upcoming,,2025-03-10 04:30:00.000 -0500,,2024-09-10 05:34:36.899 -0500,false,false,false,CL1165,PA2493,CL3516,false,open
+AP7018,In patient,patient was presented for DHLPP vaccination and chech up,false,,,completed,,2024-09-10 10:00:00.000 -0500,,2024-09-10 10:03:01.873 -0500,false,false,true,CL1165,PA2948,CL4502,true,open
+AP2520,In patient,Patient was presented with sores on the body.,false,,,visited,,2024-09-12 10:00:00.000 -0500,,2024-09-12 10:01:25.418 -0500,false,true,false,CL1165,PA4357,CL4502,true,open
+AP4873,In patient,patient was presented for ultrasound,false,,,visited,,2024-09-10 04:48:00.000 -0500,,2024-09-10 05:15:39.777 -0500,false,true,false,CL1165,PA2493,CL3516,true,open
+AP0851,In patient,,false,,,upcoming,,2025-09-03 06:00:00.000 -0500,,2024-09-04 07:10:37.127 -0500,false,false,false,CL1165,PA7796,,false,open
+AP5517,In patient,Patient was brought in for follow up treatment.,false,,,completed,,2024-09-11 06:30:00.000 -0500,,2024-09-11 06:26:10.963 -0500,false,false,true,CL1165,PA2948,CL4502,true,open
+AP9442,In patient,,false,,,upcoming,,2024-09-14 08:50:00.000 -0500,,2024-09-14 09:08:36.455 -0500,false,false,false,CL1165,PA0006,,false,open
+AP3716,In patient,patient was presented with prolonged contraction without the remaining foetus coming forth,false,,,visited,,2024-09-19 05:50:00.000 -0500,,2024-09-18 09:37:40.729 -0500,false,true,false,CL1165,PA5572,CL3516,true,open
+AP0555,In patient,Patient was presented for follow up examination,false,,,completed,,2024-09-15 09:30:00.000 -0500,,2024-09-16 11:26:01.604 -0500,false,false,true,CL1165,PA3322,CL4502,false,open
+AP3669,Vaccination,nothing,false,,,upcoming,,2024-09-24 08:00:00.000 -0500,,2024-09-24 09:20:42.466 -0500,false,false,false,CL4729,PA3086,CL6066,false,open
+AP5415,Deworming,,false,,,upcoming,,2024-11-02 05:00:00.000 -0500,,2024-10-15 10:16:35.170 -0500,false,false,false,CL5548,PA2337,CL2967,false,open
+AP8149,Vaccination,dog is very healthy,false,,,upcoming,,2024-10-23 08:45:00.000 -0500,,2024-10-23 07:55:34.851 -0500,false,false,false,CL8518,PA0420,CL2792,false,open
+AP6343,In patient,Patient was presented due to ingestion of Sniper,false,,,visited,,2024-09-14 10:50:00.000 -0500,,2024-09-16 10:04:26.574 -0500,false,true,false,CL1165,PA3322,CL4502,true,open
+AP5238,In patient,Patient was presented for follow up treatment,false,,,In Progress,,2024-09-12 04:50:00.000 -0500,,2024-09-12 04:49:55.024 -0500,false,true,false,CL1165,PA2948,CL3516,true,open
+AP1336,In patient,Patient was presented for follow up treatment,false,,,completed,,2024-09-16 09:00:00.000 -0500,,2024-09-16 11:53:26.181 -0500,false,false,true,CL1165,PA3322,CL4502,false,open
+AP2748,Grooming,,false,,,Visited,,2024-09-12 08:11:00.000 -0500,,2024-09-12 06:25:19.156 -0500,false,true,false,CL4729,PA3839,CL6573,false,open
+AP4013,In patient,Patient was presented for first time visit,false,,,visited,,2024-09-14 08:50:00.000 -0500,,2024-09-14 09:53:12.297 -0500,false,true,false,CL1165,PA0006,CL4502,true,open
+AP4172,In patient,Patient was presented for 3rd DHLPP vaccination and Deworming,false,,,completed,,2024-09-17 08:31:00.000 -0500,,2024-09-17 08:34:44.202 -0500,false,false,true,CL1165,PA8119,CL4502,true,open
+AP6496,In patient,Patient was attend to for a follow-up treatment,false,,,Visited,,2024-09-19 04:19:00.000 -0500,,2024-09-19 09:49:41.581 -0500,false,true,false,CL1165,PA0711,CL3516,false,open
+AP6779,In patient,"Patient was presented for DHLPP vaccination, Anti Rabies vaccination and Nail Trimming",false,,,completed,,2024-09-17 08:00:00.000 -0500,,2024-09-17 08:04:13.132 -0500,false,false,true,CL1165,PA3094,CL4502,true,open
+AP3577,In patient,patient was presented for deworming,false,,,Visited,,2024-09-18 18:30:00.000 -0500,,2024-09-19 05:36:59.726 -0500,false,true,false,CL1165,PA3189,CL3516,false,open
+AP9651,In patient,patient was presented with a complaint of bloody stool,false,,,In Progress,,2024-09-17 05:46:00.000 -0500,,2024-09-17 06:31:14.563 -0500,false,true,false,CL1165,PA0711,CL3516,false,open
+AP4654,In patient,Patient was attended to as a follow up,false,,,In Progress,,2024-09-18 06:30:00.000 -0500,,2024-09-18 11:27:52.590 -0500,false,true,false,CL1165,PA0711,CL4502,false,open
+AP1414,In patient,Patient was presented as a first time visit for Dhlpp and deworming,false,,,completed,,2024-09-15 11:00:00.000 -0500,,2024-09-16 11:52:05.253 -0500,false,false,true,CL1165,PA4114,CL4502,true,open
+AP9382,In patient,patient was presented for having skin color changes,false,,,In Progress,,2024-09-17 18:40:00.000 -0500,,2024-09-18 09:22:40.141 -0500,false,true,false,CL1165,PA8471,CL3516,false,open
+AP2747,In patient,Patient was presented as a first time visit.,false,,,completed,,2024-09-14 08:45:00.000 -0500,,2024-09-14 09:07:03.386 -0500,false,false,true,CL1165,PA1623,CL4502,true,open
+AP0610,Vaccination,For DHLPP,false,,,canceled,"",2024-09-17 03:30:00.000 -0500,,2024-09-17 02:55:14.104 -0500,true,true,false,CL4729,PA3086,CL6573,false,open
+AP9051,In patient,Patient was presented as malnourished and not growing,false,,,completed,,2024-09-03 10:00:00.000 -0500,,2024-09-12 12:04:35.682 -0500,false,false,true,CL1165,PA0301,CL4502,false,open
+AP9395,In patient,Patient was presented with an injury to the eye,false,,,completed,,2024-09-01 09:00:00.000 -0500,,2024-09-12 11:56:15.470 -0500,false,false,true,CL1165,PA2603,CL4502,true,open
+AP4581,In patient,patient was presented for vomitting white and foamy substance after eating,false,,,In Progress,,2024-09-18 04:00:00.000 -0500,,2024-09-18 06:33:07.241 -0500,false,true,false,CL1165,PA2264,CL3516,false,open
+AP2968,In patient,patient was presented with anorexia and being aggressive,false,,,completed,,2024-09-18 09:00:00.000 -0500,,2024-09-18 09:18:25.181 -0500,false,false,true,CL1165,PA4563,CL4502,true,open
+AP1066,In patient,patient was presented for parvo test,false,,,In Progress,,2024-09-19 05:51:00.000 -0500,,2024-09-19 05:34:28.243 -0500,false,true,false,CL1165,PA3570,CL3516,true,open
+AP4621,In patient,patient was presented for vaccination. first time visit,false,,,completed,,2024-09-17 10:55:00.000 -0500,,2024-09-17 10:52:08.950 -0500,false,false,true,CL1165,PA6027,CL4502,true,open
+AP5122,In patient,Patient was presented due to having green stool and vomiting,false,,,completed,,2024-09-17 11:00:00.000 -0500,,2024-09-18 09:01:06.058 -0500,false,false,true,CL1165,PA1641,CL4502,true,open
+AP5932,In patient,patient was presented with rash and wound on the skin,false,,,visited,,2024-09-20 04:35:00.000 -0500,,2024-09-20 04:37:44.357 -0500,false,true,false,CL1165,PA3304,CL3516,true,open
+AP9413,In patient,Patient was presented as a first time visit for check up,false,,,completed,,2024-09-19 10:00:00.000 -0500,,2024-09-19 10:48:19.283 -0500,false,false,true,CL1165,PA4434,CL4502,true,open
+AP2928,Vaccination,,false,,,In Progress,,2024-11-11 02:49:00.000 -0600,,2024-10-10 08:07:32.832 -0500,false,true,false,CL6506,PA9051,CL6981,false,open
+AP1114,General Visit,For visit,false,,,In Progress,,2024-10-04 06:00:00.000 -0500,,2024-10-03 09:50:15.346 -0500,false,true,false,CL4729,PA6056,CL6066,false,open
+AP7007,in-patient,The patient was presented for Deworming,false,,,Visited,,2024-11-04 08:15:00.000 -0600,,2024-11-04 09:09:46.535 -0600,false,true,false,CL1165,PA7118,CL4502,false,open
+AP5853,in-patient,The patient was presented as a first-time visit.,false,,,Visited,,2024-11-04 03:02:00.000 -0600,,2024-11-05 06:27:58.144 -0600,false,true,false,CL1165,PA2704,CL4502,false,open
+AP7734,in-patient,shjhdsjshkcjs,false,,,In Progress,,2024-11-01 04:00:00.000 -0500,,2024-11-01 05:25:05.709 -0500,false,true,false,CL1165,PA4886,CL3516,false,open
+AP8400,in-patient,"The patient was presented due to limping, general weakness, and watery discharge from the penis.",false,,,In Progress,,2024-11-04 07:00:00.000 -0600,,2024-11-05 06:38:05.598 -0600,false,true,false,CL1165,PA3325,CL4502,false,open
+AP6270,in-patient,The patient was presented for a first time visit,false,,,Visited,,2024-11-04 09:00:00.000 -0600,,2024-11-05 06:44:45.291 -0600,false,true,false,CL1165,PA9626,CL4502,false,open
+AP0010,in-patient,The patient was presented due to lack of appetite.,false,,,upcoming,,2024-11-18 05:16:00.000 -0600,,2024-11-18 05:20:35.567 -0600,false,false,false,CL1165,PA8471,,false,open
+AP0325,in-patient,The patient was presented for a first-time visit.,false,,,Visited,,2024-11-04 08:20:00.000 -0600,,2024-11-05 06:52:29.098 -0600,false,true,false,CL1165,PA3163,CL4502,false,open
+AP9778,in-patient,The patient was presented for DHLPP Vaccination.,false,,,upcoming,,2024-11-04 11:00:00.000 -0600,,2024-11-06 08:31:20.957 -0600,false,false,false,CL1165,PA4963,,false,open
+AP3663,in-patient,The patient was presented for checkup.,false,,,Visited,,2024-11-04 04:30:00.000 -0600,,2024-11-06 08:29:05.400 -0600,false,true,false,CL1165,PA7610,CL4502,false,open
+AP0601,in-patient,The patient was presented for DHLPP and ARV vaccination.,false,,,Visited,,2024-11-18 05:14:00.000 -0600,,2024-11-18 05:19:17.187 -0600,false,true,false,CL1165,PA2491,CL4502,false,open
+AP1699,in-patient,The patient was presented due to ticks infestation.,false,,,Visited,,2024-11-05 03:00:00.000 -0600,,2024-11-06 08:34:26.058 -0600,false,true,false,CL1165,PA2397,CL3516,false,open
+AP6440,in-patient,The patient was presented for Anti rabies and deworming.,false,,,upcoming,,2024-11-05 08:00:00.000 -0600,,2024-11-06 09:24:01.079 -0600,false,false,false,CL1165,PA0740,,false,open
+AP2123,in-patient,The patient was presented for DHLPP vaccination.,false,,,canceled,wrong date,2024-11-07 06:00:00.000 -0600,,2024-11-06 09:35:19.065 -0600,true,false,false,CL1165,PA3398,CL4502,false,open
+AP8930,in-patient,The patient was presented due to excessive panting and salivation.,false,,,canceled,wrong date,2024-11-06 09:00:00.000 -0600,,2024-11-06 09:30:55.742 -0600,true,false,false,CL1165,PA4147,CL4502,false,open
+AP3804,in-patient,The patient was presented for Anti rabies and deworming.,false,,,Visited,,2024-11-05 08:05:00.000 -0600,,2024-11-06 09:27:18.090 -0600,false,true,false,CL1165,PA0473,CL4502,false,open
+AP6042,in-patient,Patient was presented due to lack of appetite.,false,,,Visited,,2024-11-18 05:19:00.000 -0600,,2024-11-18 05:31:05.868 -0600,false,true,false,CL1165,PA8471,CL4502,false,open
+AP5241,On Treatment,For treatment,false,,,In Progress,,2024-11-22 07:00:00.000 -0600,,2024-11-22 05:54:38.578 -0600,false,true,false,CL4840,PA7681,CL2765,false,open
+AP8174,Regular Check-up,"came for boarding, doesn't eat dry food.",true,Concrete Kennel,Large,upcoming,,2024-11-26 05:00:00.000 -0600,2024-11-30 05:00:00.000 -0600,2024-11-26 05:45:56.810 -0600,false,false,false,CL4840,PA9660,CL2562,false,open
+AP3959,Deworming,Due for deworming,false,,,upcoming,,2025-01-11 09:00:00.000 -0600,,2024-11-28 05:28:17.225 -0600,false,false,false,CL4840,PA4693,CL2765,false,open
+AP2009,in-patient,The patient was presented for DHLPP vaccination.,false,,,In Progress,,2024-11-06 06:00:00.000 -0600,,2024-11-06 10:18:07.684 -0600,false,true,false,CL1165,PA3398,CL4502,true,open
+AP6922,in-patient,The patient was presented due to excessive panting and salivation.,false,,,visited,,2024-11-05 09:00:00.000 -0600,,2024-11-06 10:15:27.780 -0600,false,true,false,CL1165,PA4147,CL4502,true,open
+AP6392,in-patient,The patient was presented for DHLPP vaccination.,false,,,visited,,2024-11-04 11:00:00.000 -0600,,2024-11-06 09:21:05.501 -0600,false,true,false,CL1165,PA4963,CL4502,true,open
+AP3794,in-patient,Patient was presented for first vaccination.,false,,,Visited,,2024-11-17 17:00:00.000 -0600,,2024-11-18 04:59:36.914 -0600,false,true,false,CL1165,PA6891,CL4502,false,open
